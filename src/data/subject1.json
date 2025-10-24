@@ -1,0 +1,1172 @@
+[
+  {
+    "assignment": "Assignment -1",
+    "question": "Developing a technology is an example of",
+    "options": ["Process", "Project", "Scope", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "Following is(are) the responsibility(ies) of the project manager.",
+    "options": [
+      "Budgeting and cost control",
+      "Allocating resources",
+      "Tracking project expenditure",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "Project performance consists of",
+    "options": ["Time", "Cost", "Quality", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "Project and organizational strategy is nothing but science of",
+    "options": [
+      "Formulation to achieve objective",
+      "Implementation to achieve objective",
+      "Evaluating cross functional decisions to achieve objective",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "What are the criteria on which a project is evaluated",
+    "options": [
+      "Time and Cost",
+      "Cost and Performance",
+      "Performance only",
+      "Time, Cost and performance"
+    ],
+    "answer": "Time, Cost and performance"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "What are the determinants of a project success?",
+    "options": [
+      "Scope, Performance, Time, Client acceptance",
+      "Performance Time, Cost/Budget",
+      "Time, Scope, Performance, Cost/Budget",
+      "Scope, Cost/Budget, Performance, Time, Client acceptance"
+    ],
+    "answer": "Scope, Cost/Budget, Performance, Time, Client acceptance"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "Project success includes the dimensions such as",
+    "options": [
+      "Project efficiency, Impact on customers, Business success, Future preparation",
+      "Project efficiency, Impact on customers",
+      "Project efficiency, Impact on customers, Business success",
+      "Impact on customers, Business success, Future preparation"
+    ],
+    "answer": "Project efficiency, Impact on customers, Business success, Future preparation"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "If project is organized as a weak matrix, the project manager seeks a commitment of work from the",
+    "options": [
+      "Personnel's",
+      "Functional Departments",
+      "Subcontractors",
+      "Senior Manager"
+    ],
+    "answer": "Functional Departments"
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "The entire process of a project may be considered to be made up on number of sub process placed in different stage called the",
+    "options": [
+      "Technical key resources",
+      "Work key structure",
+      "Work Breakdown Structure (WBS).",
+      "None of the above"
+    ],
+    "answer": "Work Breakdown Structure (WBS)."
+  },
+  {
+    "assignment": "Assignment -1",
+    "question": "Following are the characteristics of Project Mindset.",
+    "options": [
+      "Time, Responsiveness, Information sharing, Processes, structured planning",
+      "Time, Project management, Information sharing, Processes, structured planning",
+      "Time, Responsiveness, Information sharing, capability, structured planning",
+      "Time, Responsiveness, Information sharing, Processes, project planning"
+    ],
+    "answer": "Time, Responsiveness, Information sharing, Processes, structured planning"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Which project is not based on risk?",
+    "options": ["Greenfield", "Brownfield", "Cooperative", "Divestment"],
+    "answer": "Cooperative"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Which are the essential parts in the brown field project?",
+    "options": [
+      "Expansion, vertical integration, and Diversification",
+      "Vertical integration and Diversification",
+      "Diversification and Expansion",
+      "None of the above"
+    ],
+    "answer": "Expansion, vertical integration, and Diversification"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "A green field project is a project when you",
+    "options": [
+      "Finish a project",
+      "Continue with the same project",
+      "Start a new project",
+      "Diversify a project"
+    ],
+    "answer": "Start a new project"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Steel industry moves for manufacturing of steel pipes is an example of",
+    "options": [
+      "Forward integration",
+      "Backward integration",
+      "Horizontal integration",
+      "None of the above"
+    ],
+    "answer": "Forward integration"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Upstream expansion is called",
+    "options": [
+      "Forward integration",
+      "Backward integration",
+      "Horizontal integration",
+      "None of the above"
+    ],
+    "answer": "Backward integration"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Conceptual phase and definition phase are an integral part of",
+    "options": [
+      "Planning and organizing phase",
+      "Implementation phase",
+      "Initiation phase",
+      "Project clean up phase"
+    ],
+    "answer": "Initiation phase"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Selection of a project is broadly a function of",
+    "options": [
+      "Risk, Returns and Resources",
+      "Risk and Returns",
+      "Risk only",
+      "Return only"
+    ],
+    "answer": "Risk, Returns and Resources"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "During brainstorming session, the management has to be",
+    "options": [
+      "Receptive",
+      "Vision for future growth",
+      "Keep long term objectives in mind",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Boston consultancy group matrix give idea where there is a lack",
+    "options": [
+      "In portfolio",
+      "Of returns",
+      "Of resources",
+      "None of the above"
+    ],
+    "answer": "In portfolio"
+  },
+  {
+    "assignment": "Assignment -2",
+    "question": "Boston consultancy group matrix is basically an order of",
+    "options": ["$5*5$", "$4*4$", "$3*3$", "$2*2$"],
+    "answer": "$2*2$"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "How many types of attributes are considered in TOPSIS?",
+    "options": ["3", "2", "4", "5"],
+    "answer": "2"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Two artificial alternative solutions are considered in",
+    "options": ["AHP", "TOPSIS", "ANPANP", "DEMATEL"],
+    "answer": "TOPSIS"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "TOPSIS method selects the alternative that is",
+    "options": [
+      "Closest to the ideal solution",
+      "Farthest from the negative ideal solutions",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Both (a) and (b)"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Which is not the quantitative method of demand forecasting?",
+    "options": [
+      "Jury of executive method",
+      "Moving average method",
+      "Time projection method",
+      "Exponential smoothing method"
+    ],
+    "answer": "Jury of executive method"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Which is the causal method of demand forecasting?",
+    "options": [
+      "Delphi technique",
+      "Jury of executive method",
+      "Exponential smoothing method",
+      "Econometric analysis"
+    ],
+    "answer": "Econometric analysis"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Econometric forecasts require",
+    "options": [
+      "accurate estimates of the coefficients of structural equations.",
+      "forecasts of future values of exogenous variables.",
+      "appropriate theoretical models.",
+      "all of the above."
+    ],
+    "answer": "all of the above."
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Which of the following is not a qualitative forecasting technique?",
+    "options": [
+      "Surveys of consumer expenditure plans",
+      "Time-series analysis",
+      "Perspectives of foreign advisory councils",
+      "Consumer intention polling"
+    ],
+    "answer": "Time-series analysis"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Which is not a type of forecasting method?",
+    "options": [
+      "Qualitative method",
+      "Quantitative method",
+      "MCDM method",
+      "Causal method"
+    ],
+    "answer": "MCDM method"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "Equal weightages to all the data points are given in",
+    "options": [
+      "Moving average method",
+      "Exponential smoothing method",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Moving average method"
+  },
+  {
+    "assignment": "Assignment -3",
+    "question": "In which method the weightage given to the older data points decreases?",
+    "options": [
+      "Moving average method",
+      "Exponential smoothing method",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": "Exponential smoothing method"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Return on equity measures",
+    "options": [
+      "Overall return on overall investment",
+      "Return for stakeholder",
+      "Profitability in its gross terms",
+      "Net profit margin"
+    ],
+    "answer": "Return for stakeholder"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Operating profit margin measures",
+    "options": [
+      "Overall return on overall investment",
+      "Return for stakeholders",
+      "Profitability in its gross terms",
+      "Net profit margin"
+    ],
+    "answer": "Profitability in its gross terms"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Capital budgeting is also known as",
+    "options": [
+      "Investment decision making",
+      "Planning capital expenditure",
+      "Both of the above",
+      "None of the above"
+    ],
+    "answer": "Both of the above"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Capital budgeting decisions are",
+    "options": [
+      "Long term nature",
+      "Short term nature",
+      "Both of the above",
+      "None of the above"
+    ],
+    "answer": "Long term nature"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Which of the following methods of capital budgeting is based on cash flow?",
+    "options": [
+      "Payback period",
+      "Net present value",
+      "Profitability Index",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Which of the following is true for a capital budgeting decision?",
+    "options": [
+      "Payback period measures true profitability",
+      "Internal rate of return is also known as time adjusted rate of return",
+      "Capital budgeting and capital rationing are same",
+      "Rate of return method takes into account time value of money"
+    ],
+    "answer": "Internal rate of return is also known as time adjusted rate of return"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Which of the following method takes into account the time value of money?",
+    "options": [
+      "Payback period",
+      "Average rate of return",
+      "Internal rate of return",
+      "All of the above"
+    ],
+    "answer": "Internal rate of return"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Approximately IRR is inverse of",
+    "options": [
+      "Payback period",
+      "Average rate of return",
+      "Net present value",
+      "None of the above"
+    ],
+    "answer": "Payback period"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "The rate of discount at which NPV of a project becomes zero is known as",
+    "options": [
+      "Average rate of return",
+      "Internal rate of return",
+      "Alternative rate of return",
+      "None of the above"
+    ],
+    "answer": "Internal rate of return"
+  },
+  {
+    "assignment": "Week 4 Assignment Solution",
+    "question": "Discounted cash flow criteria for investment appraisal do not include:",
+    "options": [
+      "Net present value",
+      "Benefit-cost ratio",
+      "Accounting rate of return",
+      "Internal rate of return"
+    ],
+    "answer": "Accounting rate of return"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "The shortcomings of the sensitivity analysis is",
+    "options": [
+      "Only one variable is considered",
+      "Multiple variables are considered",
+      "No variable is considered",
+      "None of the above"
+    ],
+    "answer": "Only one variable is considered"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "When do you perform risk identification?",
+    "options": [
+      "At the beginning of a project.",
+      "During project planning.",
+      "During the whole lifetime of a project.",
+      "During project execution."
+    ],
+    "answer": "During the whole lifetime of a project."
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Which of these statements about the project risk analysis and management program is best?",
+    "options": [
+      "Risk management is integrated throughout the project's life cycle.",
+      "The risk management strategy should be unwavering throughout the entire project life cycle.",
+      "The project manager should choose a small subset of all risk management tools.",
+      "Risk management is best handled using an ad hoc approach."
+    ],
+    "answer": "Risk management is integrated throughout the project's life cycle."
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Standalone risk techniques are used for the analysis of",
+    "options": [
+      "Completed project",
+      "Upcoming project",
+      "Profitable project",
+      "Project at hand only"
+    ],
+    "answer": "Project at hand only"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Which of the following technique is not used for analysing standalone risk/",
+    "options": [
+      "Break-even analysis",
+      "Sensitivity analysis",
+      "Simulation analysis",
+      "Corporate risk analysis"
+    ],
+    "answer": "Corporate risk analysis"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "The net probability of failure ($P_{f}$) is 0.34 and consequences of failure (Cr) is 0.40. Calculate the risk factor (RF)?",
+    "options": ["0.196", "0.604", "0.876", "0.740"],
+    "answer": "0.604"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Which of the following sentence/s are true for the risk management of a project?",
+    "options": [
+      "Properly undertaken of risk management will increase the likelihood of successful completion of a project to cost, time and performance.",
+      "It involve the initiating further investigations to reduce the uncertainty.",
+      "due to risk management, increase the understanding of project.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "For the given project where the probability that the NPV 200 of the project is 0.3. For NPV 600 probability is 0.5 and for NPV 900 probability is 0.2. Find out the final NPV?",
+    "options": ["540", "640", "340", "440"],
+    "answer": "540"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "For the given project where the probability that the NPV 200 of the project is 0.3. For NPV 600 probability is 0.5 and for NPV 900 probability is 0.2. Find out the range?",
+    "options": ["400", "300", "700", "200"],
+    "answer": "700"
+  },
+  {
+    "assignment": "Assignment 5",
+    "question": "Hillier model can be used for:",
+    "options": [
+      "Continuous probabilistic events",
+      "Discontinuous probabilistic events",
+      "Non-probabilistic events",
+      "Both a) and b)"
+    ],
+    "answer": "Both a) and b)"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "Decision points are also called as",
+    "options": [
+      "Decision nodes",
+      "Decision networks",
+      "Decision forks",
+      "None of the above"
+    ],
+    "answer": "Decision nodes"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "The choice of product mix is guided by",
+    "options": [
+      "Market requirement",
+      "Market inputs",
+      "Employee requirements",
+      "Supplier requirements"
+    ],
+    "answer": "Market requirement"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "Plant capacity refers to",
+    "options": [
+      "Area occupied by the plant",
+      "Number of equipment in the plant",
+      "Number of units manufactured during a time span",
+      "Number of employees in the plant"
+    ],
+    "answer": "Number of units manufactured during a time span"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "Choose the correct relationship between cost (C) and capacity (Q)",
+    "options": [
+      "$C1=C2(\\frac{Q2}{Q1})^{\\alpha}$",
+      "$C1=C2(\\frac{Q1}{Q2})^{\\alpha}$",
+      "$C2=C1(\\frac{Q1}{Q2})^{\\alpha}$",
+      "$C2=C1(\\frac{Q2}{Q1})^{\\alpha}$"
+    ],
+    "answer": "$C2=C1(\\frac{Q2}{Q1})^{\\alpha}$"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "For 1000 units, the investment of Rs. 200000. What would be the investment for 3000 units. Given $\\alpha=0.6$",
+    "options": ["386636", "385000", "486000", "486536"],
+    "answer": "386636"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "The investment cost per unit capacity decreases as plant capacity respectively.",
+    "options": ["Decrease", "Increase", "Unchanged", "None of the above"],
+    "answer": "Increase"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "A thermal power plant can't be located near a sanctuary. Such guidelines are prescribed by",
+    "options": [
+      "Project financer",
+      "Client",
+      "Government policy",
+      "Project beneficiaries"
+    ],
+    "answer": "Government policy"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "A decision tree is a diagram that clearly defines",
+    "options": [
+      "Potential outcomes for the collection of related choices",
+      "Potential losses",
+      "Potential benefits",
+      "None of these"
+    ],
+    "answer": "Potential outcomes for the collection of related choices"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "A company takes up a project to upgrade all its machines from conventional machines to high-tech machines. It's a type of project.",
+    "options": [
+      "Balancing",
+      "Modernization",
+      "Expansion",
+      "Backward integration"
+    ],
+    "answer": "Modernization"
+  },
+  {
+    "assignment": "Assignment 6",
+    "question": "The selection of location/sites is influenced by",
+    "options": [
+      "Ease of getting raw materials",
+      "Ease of labor and infrastructure",
+      "Government regulations",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "For the effective project teams one should have",
+    "options": [
+      "Clear sense of mission",
+      "Cohesiveness",
+      "Trust and result oriented",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "What are the reasons behind the failure of the team",
+    "options": [
+      "Unclear goals",
+      "Poor communication",
+      "Dysfunctional behavior",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "Which of the following statement is incorrect for critical path method (CPM)?",
+    "options": [
+      "The time durations are deterministic.",
+      "Looping and probabilistic events are not allowed in the network.",
+      "It gives the most economical schedule for the projects with fixed duration.",
+      "There is expected duration of the project."
+    ],
+    "answer": "There is expected duration of the project."
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "The shortest possible time in which an activity can be achieved under ideal circumstances is known as",
+    "options": [
+      "Pessimistic time estimate",
+      "Optimistic time estimate",
+      "Expected time estimate",
+      "The most likely time estimate"
+    ],
+    "answer": "Optimistic time estimate"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "The performance of a specific task in CPM is known as",
+    "options": ["Dummy", "Event", "Activity", "Contract"],
+    "answer": "Activity"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "Which of the following statements is not correct about PERT?",
+    "options": [
+      "Network is constructed based on the events.",
+      "It does not take uncertainties involved in the estimation of times.",
+      "Network deals with uncertainties and hence three time estimations are considered.",
+      "As there is no certainty of time, activity duration cannot be reduced."
+    ],
+    "answer": "It does not take uncertainties involved in the estimation of times."
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "Choose the correct statement. Dummy activity on a PERT/CPM chart means, it ----?",
+    "options": [
+      "consumes time, but no resources",
+      "consumes resources but no time",
+      "consumes neither time nor resources",
+      "consumes both resources and time"
+    ],
+    "answer": "consumes neither time nor resources"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "Pick up the incorrect statement from the following?",
+    "options": [
+      "an activity of the project is denoted by an arrow on the network",
+      "the tail of the arrow indicates the end of the activity",
+      "the head of the arrow indicates the end of the activity",
+      "the arrows are drawn (to scale from) left to right"
+    ],
+    "answer": "the arrows are drawn (to scale from) left to right"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "In the network, one activity may connect any ---- nodes.",
+    "options": ["one", "two", "three", "any number of"],
+    "answer": "two"
+  },
+  {
+    "assignment": "Assignment 7",
+    "question": "In a network diagram an event is denoted by the symbol ---",
+    "options": ["arrow", "straight line", "curve", "circle"],
+    "answer": "circle"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "An activity in a network diagram is said to be if the delay in its start will further delay the project completion time.",
+    "options": [
+      "critical activity",
+      "dummy activity",
+      "forward pass",
+      "null activity"
+    ],
+    "answer": "critical activity"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "In PERT analysis the maximum time that is required to perform the activity under extremely bad conditions is known as ----.",
+    "options": [
+      "normal time",
+      "optimistic time",
+      "pessimistic time",
+      "most likely time"
+    ],
+    "answer": "pessimistic time"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "What is the PERT time ($T_{e}$) with optimistic, most likely and pessimistic time estimations of 6, 10, 14 days.",
+    "options": ["5", "10", "7", "12"],
+    "answer": "10"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "In PERT what type of distribution is used for time estimation?",
+    "options": [
+      "Beta distribution",
+      "Poisson distribution",
+      "Exponential distribution",
+      "Chi Square"
+    ],
+    "answer": "Beta distribution"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "The difference between the maximum time available and the actual time needed to perform an activity is known as",
+    "options": ["Free float", "Independent float", "Total float", "Half float"],
+    "answer": "Total float"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "Pessimistic time and optimistic time of completion of an activity are given as 10 days and 4 days respectively, the variance of the activity will be",
+    "options": ["1", "6", "12", "18"],
+    "answer": "1"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "A PERT network has 9 activities on its critical path. The standard deviation of each activity on the critical path is 3. The standard deviation of the critical path is",
+    "options": ["3", "9", "81", "27"],
+    "answer": "9"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "Critical activities have",
+    "options": [
+      "maximum float",
+      "minimum float",
+      "zero float",
+      "negative float"
+    ],
+    "answer": "zero float"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "Total float of an activity is difference between",
+    "options": [
+      "Early Finish and Late Finish",
+      "Free Float and Interference Float",
+      "Duration and Early Start",
+      "Independent Float and the Activity"
+    ],
+    "answer": "Early Finish and Late Finish"
+  },
+  {
+    "assignment": "Assignment 8",
+    "question": "If the variance of a critical path is 25 days, the standard deviation of that critical path is",
+    "options": ["12.5 days", "15 days", "0 days", "5 days"],
+    "answer": "5 days"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "The relationship between the shape of population distribution and the shape of the sampling distribution of mean is called?",
+    "options": [
+      "Mean distribution",
+      "Central limit theorem",
+      "Beta distribution",
+      "Population distributions"
+    ],
+    "answer": "Central limit theorem"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "is the maximum delay possible for an activity without considering any delay in its precedence or succeeding activity.",
+    "options": [
+      "Free float",
+      "Total float",
+      "Continuous float",
+      "Independent float"
+    ],
+    "answer": "Independent float"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "In an activity has Zero slack, it implies that",
+    "options": [
+      "It lies on the critical path",
+      "It is a dummy activity",
+      "The project is progressing well",
+      "None of the above"
+    ],
+    "answer": "It lies on the critical path"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "Fulkerson's rule is connected with",
+    "options": [
+      "Numbering of events in PERT/CPM",
+      "The simulating model",
+      "Queuing theory",
+      "None of the above"
+    ],
+    "answer": "Numbering of events in PERT/CPM"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "If the earliest starting time for an activity is 8 weeks, the latest finish time is 37 weeks and the duration time of the activity is 11 weeks, then the total float is equal to:",
+    "options": ["18 weeks", "14 weeks", "56 weeks", "40 weeks"],
+    "answer": "18 weeks"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "Which of the following floats can have a negative value?",
+    "options": [
+      "Total float",
+      "Free float",
+      "Continuous float",
+      "Independent float"
+    ],
+    "answer": "Total float"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "What is the additional time available for the performance of an activity in PERT and CPM calculated on the basis that all activities will start at their earliest start time, called?",
+    "options": ["Slack", "Total float", "Free float", "Independent float"],
+    "answer": "Free float"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "What is the correct sequence for floats?",
+    "options": [
+      "Independent float< Total float < Free float",
+      "Total Float <= Free Float <= Independent Float",
+      "Independent Float <= Free Float<= Total Float",
+      "Free Float < Total Float < Independent Float"
+    ],
+    "answer": "Independent Float <= Free Float<= Total Float"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "A dummy activity is used in the PERT network to:",
+    "options": [
+      "Facilitate computation of slacks",
+      "Satisfy precedence requirements",
+      "Determine project completion time",
+      "Avoid the use of resources"
+    ],
+    "answer": "Satisfy precedence requirements"
+  },
+  {
+    "assignment": "Assignment 9",
+    "question": "According to the Central Limit Theorem, the mean of a sample is to the mean of a population.",
+    "options": ["Equal", "Less than", "Greater than", "Not related"],
+    "answer": "Equal"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "In PERT, the distribution of an activity time is assumed to be:",
+    "options": [
+      "Normal distribution",
+      "Gamma distribution",
+      "Beta distribution",
+      "Exponential distribution"
+    ],
+    "answer": "Beta distribution"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "The latest start time can be regarded as",
+    "options": [
+      "LFT - duration of activity",
+      "LFT + duration of activity",
+      "EFT - duration of activity",
+      "EFT + duration of activity"
+    ],
+    "answer": "LFT - duration of activity"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "Which of the following statement is false in crashing networks?",
+    "options": [
+      "Direct cost decreases as project duration decreases",
+      "Direct cost increases as project duration decreases",
+      "Direct cost decreases as project duration increases",
+      "Direct cost increases as project duration increases"
+    ],
+    "answer": "Direct cost decreases as project duration decreases"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "An act (i, j) as critical if and only if",
+    "options": [
+      "Total float = 0",
+      "Free float = 0",
+      "Independent float = 0",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "In a PERT network, the slack of an event is the difference between:",
+    "options": [
+      "Latest occurrence time and earliest occurrence time",
+      "Latest occurrence time and earliest finish time",
+      "Earliest occurrence time and latest occurrence time",
+      "Earliest occurrence time and latest finish time"
+    ],
+    "answer": "Latest occurrence time and earliest occurrence time"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "In the CPM network critical path denotes the",
+    "options": [
+      "Path where maximum resources are used",
+      "Path where minimum resources are used",
+      "Path where delay of one activity prolongs the duration of completion of a project",
+      "Path that gets monitored automatically"
+    ],
+    "answer": "Path where delay of one activity prolongs the duration of completion of a project"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "The earliest finish time can be regarded as",
+    "options": [
+      "EST + duration of activity",
+      "EST - duration of activity",
+      "LFT + duration of activity",
+      "LFT - duration of activity"
+    ],
+    "answer": "EST + duration of activity"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "The essential condition for the decompression of an activity is:",
+    "options": [
+      "The project time should change due to decompression",
+      "After decompression the time of an activity invari ably exceeds its normal time.",
+      "An activity could be decompressed to the maximum extent of its normal time",
+      "None of the above"
+    ],
+    "answer": "An activity could be decompressed to the maximum extent of its normal time"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "Crashing of a project is the process of reducing the of the project?",
+    "options": ["Cost", "Time", "Material", "Labor"],
+    "answer": "Time"
+  },
+  {
+    "assignment": "Assignment 10",
+    "question": "Float is used for",
+    "options": ["Activities", "Events", "Nodes", "None of the above"],
+    "answer": "Activities"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Which of the following is a cost estimating technique?",
+    "options": [
+      "Variance management",
+      "Cost aggregation",
+      "Parametric estimating",
+      "Cost change control system"
+    ],
+    "answer": "Parametric estimating"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "A cost performance index value greater than 1.0 signifies:",
+    "options": [
+      "Cost underrun",
+      "Cost overrun",
+      "Cost run equal",
+      "None of the above"
+    ],
+    "answer": "Cost underrun"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Schedule value is termed as:",
+    "options": [
+      "Earned value - Actual value",
+      "Earned value - Planned value",
+      "Actual cost - planned value",
+      "Actual cost - Earned value"
+    ],
+    "answer": "Earned value - Planned value"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Cost performance index is calculated by using:",
+    "options": [
+      "Actual cost / Planned value",
+      "Planned value / Earned value",
+      "Budget cost at completion / Actual cost",
+      "Earned value / Actual cost"
+    ],
+    "answer": "Earned value / Actual cost"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Which of the following is not used to provide performance measurement of any work at a given point of time.",
+    "options": [
+      "Planned value",
+      "Budgeted cost at completion",
+      "Earned value",
+      "Actual cost"
+    ],
+    "answer": "Budgeted cost at completion"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Which of the following is not a cost budgeting input?",
+    "options": [
+      "Project scope statement",
+      "WBS Dictionary",
+      "Resource calendar",
+      "Performance reports"
+    ],
+    "answer": "Performance reports"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Which of the following is not a cost control technique?",
+    "options": [
+      "Reserve analysis",
+      "Project performance reviews",
+      "Forecasting",
+      "Variance management"
+    ],
+    "answer": "Reserve analysis"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Cost value can be regarded as:",
+    "options": [
+      "Earned value - Actual cost",
+      "Earned value - Planned value",
+      "Planned value - Actual cost",
+      "Planned value - Earned value"
+    ],
+    "answer": "Earned value - Actual cost"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Estimating the cost of individual work packages or individual schedule activities with the lowest level of detail is called?",
+    "options": [
+      "Parametric Estimating",
+      "Bottom-up Estimating",
+      "Vendor Bid Analysis",
+      "Reserve Analysis"
+    ],
+    "answer": "Bottom-up Estimating"
+  },
+  {
+    "assignment": "Assignment 11",
+    "question": "Which one of the following is not a dimension of Quality?",
+    "options": ["Performance", "Reliability", "Cost", "Durability"],
+    "answer": "Cost"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following is not purchasing policy?",
+    "options": [
+      "Employee's purchase",
+      "Supplier's purchase",
+      "Speculative buying",
+      "Sourcing"
+    ],
+    "answer": "Employee's purchase"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following is not included in the prevention cost of quality?",
+    "options": [
+      "Training",
+      "Process control",
+      "Product review",
+      "Product inspection"
+    ],
+    "answer": "Product inspection"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "A product consists of 650 units of assembly. What is the probability that any specific unit of product is conforming if we go by 3 sigma?",
+    "options": ["15.25%", "16.25%", "17.25%", "18.25%"],
+    "answer": "17.25%"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following is not a dimension of Quality?",
+    "options": ["Performance", "Serviceability", "Perishability", "Features"],
+    "answer": "Perishability"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following is not an objective of scientific purchasing?",
+    "options": [
+      "Cost reduction",
+      "Maintain continuity in supply",
+      "Standardization",
+      "Performance evaluation"
+    ],
+    "answer": "Performance evaluation"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following term specify with the character 'I' in DMAIC?",
+    "options": ["Implement", "Integrate", "Input", "Improve"],
+    "answer": "Improve"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following cost consider as appraisal cost of quality?",
+    "options": [
+      "Testing of material",
+      "Complaint adjustment",
+      "Liability cost",
+      "Data acquisition and analysis"
+    ],
+    "answer": "Testing of material"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Which of the following is not a type of project termination?",
+    "options": ["Integration", "Starvation", "Extinction", "Deprivation"],
+    "answer": "Deprivation"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "Calculate DPMO, when a supplier is supplying a total of 3, 00,000 units in a single day and observed 350 units have defected.",
+    "options": ["100", "1000", "10000", "10"],
+    "answer": "1000"
+  },
+  {
+    "assignment": "Assignment 12",
+    "question": "If you were a Six Sigma Deployment Leader in the organization, what will you first do?",
+    "options": [
+      "Develop a vision and mission for the organization and execute a Six Sigma Deployment plan in the organization",
+      "Perform statistical analysis in the process and identify root causes",
+      "Help process achieves its metrics by executing process improvement projects",
+      "Identify areas of best practices and guide green belts to execute them"
+    ],
+    "answer": "Develop a vision and mission for the organization and execute a Six Sigma Deployment plan in the organization"
+  }
+]

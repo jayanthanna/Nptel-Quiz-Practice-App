@@ -1,0 +1,2280 @@
+[
+  {
+    "assignment": "Week 1: Assignment 1",
+    "question": "In the definition of Virtual Reality we use in class, how would you clarify the concept of awareness?",
+    "options": [
+      "When there's minimal tracking lag.",
+      "When you can interact with the virtual environment and get sensory feedback.",
+      "When your brain forms new neural connections, similar to those developed during real-world exploration.",
+      "When you feel a tingling sensation in your fingertips.",
+      "When you get a feeling of being fully present in the virtual environment.",
+      "None of the above."
+    ],
+    "answer": "When you can interact with the virtual environment and get sensory feedback.;When your brain forms new neural connections, similar to those developed during real-world exploration.;When you get a feeling of being fully present in the virtual environment"
+  },
+  {
+    "assignment": "Week 1: Assignment 1",
+    "question": "What is one obvious visual flaw of the following VR experience, based on the screenshot below of the two images presented to two eyes?",
+    "options": [
+      "Inconsistent audio feedback.",
+      "Slow frame rate.",
+      "Limited field of view.",
+      "Binocular mismatch.",
+      "Lack of haptic feedback.",
+      "Barrel Distortion.",
+      "None of the above."
+    ],
+    "answer": "Binocular mismatch."
+  },
+  {
+    "assignment": "Week 1: Assignment 1",
+    "question": "The first ever VR headset was released by Nintendo, together with the game Virtual Boy.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "assignment": "Week 1: Assignment 1",
+    "question": "Realistic graphics is essential for immersion in VR",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "assignment": "Week 1: Assignment 1",
+    "question": "As determined in class, how many senses does the human body have?",
+    "options": ["Four", "Five", "Six", "Seven", "Eight", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Screen Size and PPI [Note: The expected answer is a range, but a specific example value is not provided in the text. Assuming a generic format based on the acceptance range]",
+    "options": ["(Type: Range) 0:00 1000.00"],
+    "answer": "(Type: Range) 0:00 1000.00"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Screen to Lens Distance (mm)",
+    "options": ["(Type: Range) 0:00 150.00"],
+    "answer": "(Type: Range) 0:00 150.00"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Inter-lens distance (mm)",
+    "options": ["(Type: Range) 0:00 150.00"],
+    "answer": "(Type: Range) 0:00 150.00"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Tray to lens-center distance (mm)",
+    "options": ["(Type: Range) 0:00 100.00"],
+    "answer": "(Type: Range) 0:00 100.00"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Distortion coefficients, k1",
+    "options": ["(Type: Range) -2: 2"],
+    "answer": "(Type: Range) -2: 2"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Distortion coefficients, k2",
+    "options": ["(Type: Range) -2: 2"],
+    "answer": "(Type: Range) -2: 2"
+  },
+  {
+    "assignment": "Week 1: Assignment 2",
+    "question": "Field-of-view Angles",
+    "options": ["(Type: Range) -100: 180"],
+    "answer": "(Type: Range) -100: 180"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "What is the Minimum number of frames per second at which continuous apparent motion occurs, rather than frames perceived individually?",
+    "options": ["2", "5", "12", "24", "None of the above"],
+    "answer": "12"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "What is a sensor/sense as defined in class?",
+    "options": [
+      "Sense organ",
+      "Transducer",
+      "Human eye",
+      "The sixth sense",
+      "IMU",
+      "None of the above"
+    ],
+    "answer": "Transducer"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "What is a similarity between the human senses and the engineered sensors?",
+    "options": [
+      "Both convert real-world energy into some sort of signal",
+      "Both have a high-frequency rate of sensing",
+      "Both are completely immune to errors",
+      "Both require constant calibration.",
+      "Both have been known to give cryptic error messages when exposed to cosmic radiation",
+      "None of the above"
+    ],
+    "answer": "Both convert real-world energy into some sort of signal."
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "In the context of eye tracking for HMDs, how many DOFs does the human eye have, consider head movement, eye rotation, and accommodation point",
+    "options": ["32", "3", "76", "8", "More than 9", "None of the above"],
+    "answer": "More than 9"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "As discussed in class, how many DOFs does the human ear have?",
+    "options": ["2", "3", "5", "6", "None of the above"],
+    "answer": "6"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "What is the largest number of DOFs that the Oculus Quest 2 HMD can track?",
+    "options": ["4", "5", "6", "None of the above"],
+    "answer": "6"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "What is the artificial stimulus produced by audio displays?",
+    "options": [
+      "Light waves",
+      "Air pressure waves",
+      "Cutaneous feedback force",
+      "Kinesthesia",
+      "Optical distortion",
+      "None of the above"
+    ],
+    "answer": "Air pressure waves"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "What is the artificial stimulus produced by visual displays?",
+    "options": [
+      "Light waves",
+      "Air pressure waves",
+      "Cutaneous feedback force",
+      "Kinesthesia",
+      "Optical distortion",
+      "None of the above"
+    ],
+    "answer": "Light waves"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "Which one of the following is a visual display as defined in class",
+    "options": [
+      "CPU",
+      "Camera",
+      "Speaker",
+      "Haptic gloves",
+      "Phone screen",
+      "Headphones",
+      "None of the above"
+    ],
+    "answer": "Phone screen"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "Any Moving object on a digital screen with 12 FPS refresh rate will appear continuous",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "Any moving object on a digital screen with 1000 FPS refresh rate will appear continuous",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "As commonly used in class, what does IMU stand for?",
+    "options": [
+      "Intensive Management Unit",
+      "Irish Missionary Union",
+      "Interface Motion Utility",
+      "Inertial Measurement Unit",
+      "Interactive Multisensor Utility",
+      "None of the above"
+    ],
+    "answer": "Inertial Measurement Unit"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "Which one is NEVER a part of an IMU?",
+    "options": [
+      "Accelerometer",
+      "Gyroscope",
+      "Camera",
+      "Magnetometer",
+      "None of the above"
+    ],
+    "answer": "Camera"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "An accelerometer measures",
+    "options": [
+      "Linear acceleration due to gravity",
+      "Linear acceleration due to forces (other than gravity) acting on the accelerometer",
+      "Linear velocity due to accelerometer translations",
+      "Angular acceleration due to accelerometer rotations",
+      "The vector sum of Linear acceleration due to gravity and Linear acceleration due to forces (other than gravity) acting on the accelerometer",
+      "None of the above"
+    ],
+    "answer": "The vector sum of Linear acceleration due to gravity and Linear acceleration due to forces (other than gravity) acting on the accelerometer"
+  },
+  {
+    "assignment": "Week 2: Assignment 1",
+    "question": "A magnetometer measures",
+    "options": [
+      "Angular accelerations due to Earth rotation",
+      "Earth angular velocity",
+      "The vector pointing towards the Earth's magnetic pole (like a compass).",
+      "The 3D magnetic field that passes through it",
+      "The spin direction of nearby electrons",
+      "None of the above"
+    ],
+    "answer": "The 3D magnetic field that passes through it"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "Which one of the following VR developer choices most commonly leads to user nausea?",
+    "options": [
+      "Self-teleportation at a far distance",
+      "Wrong scale of the objects in the virtual world.",
+      "Slow self-rotation in place (like on a merry-go-round)",
+      "Wrong scale of avatar's hands",
+      "Objects placed at a distance closer than 30 cm.",
+      "Slow moving objects in the virtual world."
+    ],
+    "answer": "Slow self-rotation in place (like on a merry-go-round)"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "Which one of the following VR developer choices is most likely to cause immediate spatial disorientation for the user?",
+    "options": [
+      "Self-teleportation at a far distance.",
+      "Wrong scale of the objects in the virtual world.",
+      "Slow self-rotation in place (like on a merry-go-round)",
+      "Wrong scale of avatar's hands",
+      "Objects placed at a distance closer than 30 cm.",
+      "Slow moving objects in the virtual world."
+    ],
+    "answer": "Self-teleportation at a far distance"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "Which one of the following VR developer choices most commonly leads to user eye fatigue?",
+    "options": [
+      "Self-teleportation at a far distance",
+      "Wrong scale of the objects in the virtual world",
+      "Slow self-rotation in place (like on a merry-go-round)",
+      "Wrong scale of avatar's hands",
+      "Objects placed at a distance closer than 30 cm.",
+      "Slow moving objects in the virtual world."
+    ],
+    "answer": "Objects placed at a distance closer than 30 cm."
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "When moving your VR avatar using a controller, which one of the following options is considered most comfortable?",
+    "options": [
+      "immediately jump to walking speed.",
+      "gradually increase speed",
+      "add up and down vection (the sensation of vertical motion) to imitate steps.",
+      "introduce sudden changes in elevation.",
+      "perform virtual somersaults during movement.",
+      "reduce the FOV while walking.",
+      "None of the above"
+    ],
+    "answer": "immediately jump to walking speed;reduce the FOV while walking"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "Which one of the following is NOT a common optic flow reduction method?",
+    "options": [
+      "Vignettes",
+      "The \"Squirrel Distraction\" Technique.",
+      "Temporal Occlusion.",
+      "Peripheral Vision Occlusion.",
+      "Reduced Texture detail",
+      "None of the above"
+    ],
+    "answer": "The \"Squirrel Distraction\" Technique."
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "In order to prevent eye strain, at what minimum distance the objects (objects of interest in the environment) should be rendered in VR?",
+    "options": [
+      "0.4 meter",
+      "0.5 meter",
+      "1.0 meter",
+      "1.5 meter",
+      "0.3 meter",
+      "0.8 meter"
+    ],
+    "answer": "0.5 meter"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "What is the upper limit of comfortable latency in VR according to the Oculus Best Practices recommendation guide?",
+    "options": [
+      "5 ms",
+      "10 ms",
+      "20 ms",
+      "40 ms",
+      "80 ms",
+      "100 ms",
+      "None of the above."
+    ],
+    "answer": "20 ms"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "Why do many VR games choose to represent player characters with no legs or just disjointed hands without arms attached, instead of a full realistic body?",
+    "options": [
+      "To significantly improve performance by reducing the number of rendered elements.",
+      "To make the game less realistic and more stylized",
+      "To prevent the discomfort associated with mismatched body movements and visual feedback",
+      "To eliminate the need for rendering complex, realistic avatars",
+      "To give players the surreal experience of being a floating pair of hands, like a magician's assistant"
+    ],
+    "answer": "To prevent the discomfort associated with mismatched body movements and visual feedback;To eliminate the need for rendering complex, realistic avatars"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "For a comfortable reading experience in VR (at VR distances of 1-2 meters), what is the minimum recommended font size?",
+    "options": ["16 pt", "25 pt", "30 pt", "35 pt", "40 pt", "42 pt"],
+    "answer": "42 pt"
+  },
+  {
+    "assignment": "Week 2: Assignment 2",
+    "question": "Which one of the following factors is the least contributing factor in discomfort for VR users?",
+    "options": [
+      "Virtual objects that are too close to the eyes,",
+      "Unnatural self motions of body avatars",
+      "Disabled or incorrect head rotational tracking",
+      "Lack of 3-dimensional depth information in 360-panoramas.",
+      "Inconsistent frame rates",
+      "Poor ergonomics of VR hardware"
+    ],
+    "answer": "Lack of 3-dimensional depth information in 360-panoramas."
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "Both Unity and Unreal Engine use right-handed coordinate frames to match mathematical definitions in textbooks.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "Which ones of the following transformation matrices represent rigid body transformations?",
+    "options": [
+      "Rotations and their inverses",
+      "Shearing and their inverses",
+      "Mirror images and their inverses",
+      "A matrix that converts between left-handed and right-handed coordinate systems",
+      "None of the above"
+    ],
+    "answer": "Rotations and their inverse"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "Which one of the following matrices represent a 3D rigid body rotation?",
+    "options": [
+      "$M_1 = \\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$",
+      "$M_2 = \\begin{pmatrix} \\sqrt{2}/2 & \\sqrt{2}/2 & 0 \\\\ -\\sqrt{2}/2 & \\sqrt{2}/2 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$",
+      "$M_3 = \\begin{pmatrix} \\sqrt{2}/2 & -\\sqrt{2}/2 & 0 \\\\ -\\sqrt{2}/2 & -\\sqrt{2}/2 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$",
+      "None of the listed"
+    ],
+    "answer": "$\\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "Where does the following transformation matrix take the $X$ unit vector? $M = \\begin{pmatrix} 3 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -2 \\end{pmatrix}$",
+    "options": [
+      "$\\begin{pmatrix} 3 \\\\ 0 \\\\ 0 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 0 \\\\ 0 \\\\ -2 \\end{pmatrix}$",
+      "None of the listed"
+    ],
+    "answer": "$\\begin{pmatrix} 3 \\\\ 0 \\\\ 0 \\end{pmatrix}$"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "What is the best description of the following matrix? $M = \\begin{pmatrix} \\sqrt{2}/2 & \\sqrt{2}/2 & 0 \\\\ -\\sqrt{2}/2 & \\sqrt{2}/2 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$",
+    "options": [
+      "A pitch rotation of 90 degrees",
+      "A roll rotation of -90 degrees.",
+      "Switching between left-handed and right-handed coordinate frames.",
+      "A rigid body transformation matrix",
+      "None of the above"
+    ],
+    "answer": "A rigid body transformation matrix"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "What is the best description of the following matrix? $M = \\begin{pmatrix} -1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -1 \\end{pmatrix}$",
+    "options": [
+      "A pitch rotation of 90 degrees.",
+      "A yaw rotation of -180 degrees",
+      "Switching between left-handed and right-handed coordinate frames.",
+      "Not a rigid body transformation matrix",
+      "None of the above,"
+    ],
+    "answer": "A yaw rotation of -180 degrees"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "What is the best description of the following matrix? $M = \\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -1 \\end{pmatrix}$",
+    "options": [
+      "A pitch rotation of 90 degrees.",
+      "A roll rotation of -90 degrees.",
+      "Switching between left-handed and right-handed coordinate frames",
+      "A rigid body transformation matrix",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "What is the quaternion corresponding to the rotation matrix, $M = \\begin{pmatrix} \\cos \\theta & -\\sin \\theta & 0 \\\\ \\sin \\theta & \\cos \\theta & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$?",
+    "options": [
+      "$(\\cos \\theta, 0, 0, \\sin \\theta)$",
+      "$(0, \\cos \\theta, \\sin \\theta, 0)$",
+      "$(0, 0, 0, 1)$",
+      "None of the above"
+    ],
+    "answer": "$(\\cos \\frac{\\theta}{2}, 0, 0, \\sin \\frac{\\theta}{2})$"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "What is the quaternion corresponding to the rotation matrix, $M = \\begin{pmatrix} -1 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & 1 \\end{pmatrix}$?",
+    "options": [
+      "$(-1, 0, 0, 0)$",
+      "$(0, -1, 0, 0)$",
+      "$(0, 0, -1, 0)$",
+      "$(0, 0, 0, -1)$",
+      "None of the above."
+    ],
+    "answer": "$\\begin{pmatrix} 0 \\\\ 0 \\\\ 1 \\\\ 0 \\end{pmatrix}$"
+  },
+  {
+    "assignment": "Week 3: Assignment 1",
+    "question": "What is the quaternion corresponding to the rotation matrix, $M = \\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & -1 & 0 \\\\ 0 & 0 & -1 \\end{pmatrix}$?",
+    "options": [
+      "$(1, 0, 0, 1)$",
+      "$(0, 0, 0, 1)$",
+      "$(1, 0, 0, 0)$",
+      "$\\begin{pmatrix} 0 & \\cos \\theta & \\sin \\theta & 0 \\end{pmatrix}$",
+      "None of the above"
+    ],
+    "answer": "$(0, 0, 0, 1)$"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which one of the following quaternions is a rotation by $\\theta$ degrees around vector $\\mathbf{v} = (1, 0, 0)$?",
+    "options": [
+      "$(\\cos \\theta, \\sin \\theta, 0, 0)$",
+      "(\\cos \\frac{\\theta}{2}, \\sin \\frac{\\theta}{2}, 0, 0)",
+      "(\\cos \\frac{\\theta}{2}, 0, \\sin \\frac{\\theta}{2}, 0)",
+      "(\\cos \\frac{\\theta}{2}, 0, 0, \\sin \\frac{\\theta}{2})",
+      "None of the above"
+    ],
+    "answer": "(\\cos \\frac{\\theta}{2}, \\sin \\frac{\\theta}{2}, 0, 0)"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which One is Not a Unit Quaternion?",
+    "options": [
+      "$(1, 0, 0, 0)$",
+      "$(0, 0, 0, 1)$",
+      "(\\frac{1}{\\sqrt{2}}, \\frac{1}{\\sqrt{2}}, 0, 0)$",
+      "$(\\frac{1}{\\sqrt{2}}, 0, 0, 0)$",
+      "More than one above"
+    ],
+    "answer": "More than one above"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which one is the inverse of the quaternion $(1, 0, 0, 0)$?",
+    "options": [
+      "$(1, 0, 0, 0)$",
+      "$(0, -1, 0, 0)$",
+      "$(0, 0, 1, 0)$",
+      "$(0, 0, 0, 1)$",
+      "None of the above"
+    ],
+    "answer": "$(1, 0, 0, 0)$"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "What is the best description of the following matrix? $M = \\begin{pmatrix} -1 & 0 & 0 & -1 \\\\ 0 & 1 & 0 & 1 \\\\ 0 & 0 & -1 & -1 \\\\ 0 & 0 & 0 & 1 \\end{pmatrix}$",
+    "options": [
+      "Translate by $(-1, 1, -1)$ in world coordinate frame.",
+      "Translate by $(-1, 1, -1)$ and then convert from right-handed coordinate frame to left-handed",
+      "First translate by $(-1, 1, -1)$ and then rotate by a yaw of $180$ degrees.",
+      "First rotate by a yaw of $180$ degrees, and then translate by $(-1, 1, -1)$ in global coordinate frame)",
+      "None of the above"
+    ],
+    "answer": "First rotate by a yaw of 180 degrees, and then translate by $(-1, 1, -1)$ in global coordinate frame)"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which one of the following matrices is equivalent to the following matrix? $M = \\begin{pmatrix} 1 & 0 & 0 & 1 \\\\ 0 & 1 & 0 & 0 \\\\ 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & 1 \\end{pmatrix}$",
+    "options": [
+      "First translate by $(1, 0, 0)$ and then rotate by a yaw of $180$ degrees.",
+      "First rotate by a yaw of $180$ degrees, and then translate by $(1, 0, 0)$ in global coordinate frame)",
+      "Translate by $(1, 0, 0)$",
+      "None of the above"
+    ],
+    "answer": "Translate by $(1, 0, 0)$"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which one of the following matrices is equivalent to the following matrix? $M = \\begin{pmatrix} 1 & 0 & 0 & 0 \\\\ 0 & 1 & 0 & 1 \\\\ 0 & 0 & 1 & 0 \\\\ 0 & 0 & 0 & 1 \\end{pmatrix}$",
+    "options": [
+      "Translate by $(0, 1, 0)$",
+      "Rotate by a yaw of $180$ degrees and then translate by $(0, 1, 0)$",
+      "Rotate by a roll of $180$ degrees and then translate by $(0, 1, 0)$",
+      "None of the above"
+    ],
+    "answer": "Translate by $(0, 1, 0)$"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Consider an object (left image) that is originally placed flat in the XZ plane, with its vertical portion aligned with the X axis of the world. Which one is the chain of quaternions that represent the rotation of the object from its original orientation to the one in which the object is placed in the XY plane with its vertical portion aligned with the vector $(1, 1, 0)$ as depicted in the figure below?",
+    "options": [
+      "$(0, \\cos 45^{\\circ}, 0, \\sin 45^{\\circ}) \\circ (\\cos 90^{\\circ}, 0, 0, \\sin 90^{\\circ})$",
+      "$(\\cos 45^{\\circ}, \\sin 45^{\\circ}, 0, 0) \\circ (\\cos 90^{\\circ}, 0, 0, \\sin 90^{\\circ})$",
+      "$(\\cos 45^{\\circ}, \\sin 45^{\\circ}, 0, 0) \\circ (\\cos 90^{\\circ}, 0, 0, 0)$",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which image properly represents Steve's new configuration? (Steve is a Minecraft character. His head is a cube. The center of left-bottom-rear corner of his head is the origin of the global coordinate frame, in which his right eye has coordinates $(1, 1, 1)$. Initially Steve's local coordinate system coincides with the global system. Then, Steve performs the following steps in the local coordinate frame: 1. rotate by yaw $\\frac{\\pi}{2}$ (around Y) 2. translate by $(0, 0, 1)$)",
+    "options": [
+      "Image showing a 90-degree yaw rotation and a Z-translation (visual description needed)",
+      "Image B",
+      "Image C",
+      "Image D",
+      "None of the above"
+    ],
+    "answer": "Image showing a 90-degree yaw rotation and a Z-translation (visual description needed)"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which quaternion properly represents Steve's rotation? (Consider the same setup as in the previous problem. Steve performs the following steps in the local coordinate frame: 1. rotate by yaw $\\frac{\\pi}{2}$ (around Y) 2. translate by $(0, 0, 1)$)",
+    "options": [
+      "$(\\cos \\frac{\\pi}{4}, 0, \\sin \\frac{\\pi}{4}, 0)$",
+      "$\\begin{pmatrix} 0 \\\\ 0 \\\\ 1 \\\\ 0 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 0 \\\\ 1 \\\\ 0 \\\\ 0 \\end{pmatrix}$",
+      "None of the above"
+    ],
+    "answer": "$(\\cos \\frac{\\pi}{4}, 0, \\sin \\frac{\\pi}{4}, 0)$"
+  },
+  {
+    "assignment": "Week 4: Assignment 4",
+    "question": "Which matrix properly represents Steve's new configuration? (Consider the same setup as above. Steve performs the following steps in the local coordinate frame: 1. rotate by yaw $\\frac{\\pi}{2}$ (around Y) 2. translate by $(0, 0, 1)$)",
+    "options": [
+      "$M = \\begin{pmatrix} 0 & 0 & 1 & 0 \\\\ 0 & 1 & 0 & 0 \\\\ -1 & 0 & 0 & 1 \\\\ 0 & 0 & 0 & 1 \\end{pmatrix}$",
+      "Image B",
+      "Image C",
+      "Image D",
+      "None of the above"
+    ],
+    "answer": "Image B"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Which one of the following optical phenomena is usually NOT corrected in modern HMDs?",
+    "options": [
+      "Aberration",
+      "Dispersion",
+      "Diffraction",
+      "Refraction",
+      "None of the above"
+    ],
+    "answer": "Diffraction"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "What is the diopter of a lens with a positive focal distance of $F=5 cm$?",
+    "options": ["+0.2 D", "+0.5 D", "+10 D", "+20 D", "None of the above"],
+    "answer": "+20 D"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Diopters are a convenient way to quantify optical power because they allow one to calculate the optical power of a system of lenses by the diopters of all lenses in the system.",
+    "options": [
+      "simply multiplying",
+      "simply adding",
+      "dividing by the focal length and adding up",
+      "None of the above"
+    ],
+    "answer": "simply adding"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Consider the following graph for spectral reflectance. What color will the object appear in daylight?",
+    "options": [
+      "White",
+      "Mostly red",
+      "Mostly blue",
+      "Mostly green",
+      "Mostly grey"
+    ],
+    "answer": "Mostly red"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Think about a lens emitting red light rays in one dimension, which pass through a spherical lens. If the rays have one focal point in one plane and a different focal point in another plane, what type of optical aberration is this?",
+    "options": [
+      "Chromatic aberration",
+      "Spherical aberration",
+      "Coma",
+      "Field curvature",
+      "Astigmatism",
+      "None of the above"
+    ],
+    "answer": "Astigmatism"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Think about white light rays propagating in one dimension and passing through a spherical lens. If the rays have multiple focal points depending on the wavelength, what type of optical aberration is this?",
+    "options": [
+      "Astigmatism",
+      "Spherical aberration",
+      "Coma",
+      "Chromatic aberration",
+      "None of the above"
+    ],
+    "answer": "Chromatic aberration"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "What is collimated light?",
+    "options": [
+      "Light that is highly concentrated in a small region",
+      "Light that is alternating in brightness and intensity",
+      "Light that is scattered in all directions",
+      "Light in which the rays are parallel and do not diverge or converge",
+      "Light that has a spectrum of colors",
+      "None of the above"
+    ],
+    "answer": "Light in which the rays are parallel and do not diverge or converge"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Where should the source of light be from a converging lens to produce parallel rays coming out of the lens?",
+    "options": [
+      "The source of light must be placed at infinity, far from the lens",
+      "The source of light should be positioned at a distance equal to the focal distance of the lens",
+      "It doesn't matter where the light source is placed, the lens always produces parallel rays",
+      "The source of light should be placed at the lens center",
+      "The source of light should be positioned beyond the focal point of the lens",
+      "None of the above"
+    ],
+    "answer": "The source of light should be positioned at a distance equal to the focal distance of the lens"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Lenses in conventional head mounted displays make consumers to focus on a screen/display that is very close to their eyes by producing,",
+    "options": [
+      "optical distortions",
+      "collimated light",
+      "high FOV",
+      "realistic and immersive experience",
+      "polarized light",
+      "None of the above"
+    ],
+    "answer": "collimated light"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Which of the following is NOT a common reason why VR HMDs use spherical lenses?",
+    "options": [
+      "Spherical lenses in the FOV of the viewer induce distortions",
+      "Spherical lenses are easier and cheaper to manufacture than other types of lenses",
+      "Spherical lenses magnify objects on the display and make them appear relatively larger",
+      "Spherical lenses are typically made of transparent material",
+      "None of the above is a common reason"
+    ],
+    "answer": "Spherical lenses in the FOV of the viewer induce distortions"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Which of the following are NOT a problem commonly associated with lenses in modern HMDs?",
+    "options": [
+      "Astigmatism",
+      "Spherical aberration",
+      "Fresnel glare",
+      "Chromatic aberration",
+      "Optical distortions",
+      "None of the above"
+    ],
+    "answer": "Astigmatism;Fresnel glare"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Optical distortion occurs when straight lines appear curved after looking through the lens.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "What is the main source of chromatic aberration?",
+    "options": [
+      "Astigmatism of the lens",
+      "Rotation of parallel lines",
+      "White light is composed of different wavelengths",
+      "Vergence-accommodation mismatch",
+      "Binocular disparity",
+      "None of the above"
+    ],
+    "answer": "White light is composed of different wavelengths"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "In an HMD, virtual objects appear as if they are at which of the following distances?",
+    "options": [
+      "The objects are extremely small and close to your eyes",
+      "The objects are at an indeterminate distance, making them appear far away",
+      "They are at a fixed distance, typically $40-50$ cm away",
+      "The objects are at varying distances, creating a 3D effect",
+      "The eyes cannot change focus, focusing on the objects",
+      "None of the above"
+    ],
+    "answer": "They are at a fixed distance, typically $40-50$ cm away"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Why do young people who are farsighted not usually need glasses when wearing an HMD?",
+    "options": [
+      "HMDs are specifically designed for farsighted individuals",
+      "The virtual objects in an HMD are always placed at a close distance",
+      "Farsighted individuals who have retained the ability to accommodate their eyes can focus on objects at varying distances, including objects at infinity",
+      "HMD technology incorporates eye tracking to adjust for farsightedness",
+      "None of the above"
+    ],
+    "answer": "Farsighted individuals who have retained the ability to accommodate their eyes can focus on objects at varying distances, including objects at infinity"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Why do nearsighted people typically need glasses while using an HMD?",
+    "options": [
+      "HMDs are specifically designed for nearsighted individuals",
+      "The virtual objects in HMDs are always placed at a far distance",
+      "Nearsighted individuals can never focus on objects at infinity",
+      "HMD technology is not capable of providing variable focus for nearsighted users",
+      "None of the above"
+    ],
+    "answer": "Nearsighted individuals can never focus on objects at infinity"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Human eyes change focus (accommodation) to see real-life objects at different distances, but in VR, the focus is typically fixed and accommodation does not occur.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Vergence is coupled with accommodation when viewing objects in VR.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "Why is accommodation mismatch typically missing in an HMD?",
+    "options": [
+      "HMDs have the necessary hardware to measure accommodation",
+      "Accommodation can be simulated in software, but is not a significant factor in VR sickness",
+      "HMDs intentionally omit accommodation to reduce eye strain",
+      "The lack of accommodation in HMDs is typically due to the lens technology used",
+      "HMDs prioritize other factors over accommodation for a more immersive experience"
+    ],
+    "answer": "The lack of accommodation in HMDs is typically due to the lens technology used"
+  },
+  {
+    "assignment": "Week 5: Assignment 1",
+    "question": "What is VAM, and why does it happen?",
+    "options": [
+      "VAM stands for VR Accommodation Mismatch, and it is typically caused by incorrect lens design",
+      "VR vergence-accommodation mismatch is a rare occurrence and is not a significant factor in VR sickness",
+      "It happens when the eyes converge on a virtual object at one distance while the eyes must accommodate for a different distance, which is caused by collimated light emitted by the display",
+      "It happens when the virtual world throws a surprise party for your eyes without your consent",
+      "It happens when VR lenses are not suitable for the virtual environment",
+      "None of the above"
+    ],
+    "answer": "It happens when the eyes converge on a virtual object at one distance while the eyes must accommodate for a different distance, which is caused by collimated light emitted by the display"
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "To confirm that you've made it this far, choose below how the color of the object in the room changes when you look at it.",
+    "options": [
+      "Blue to green",
+      "Blue to yellow",
+      "Blue to red/purple",
+      "Blue to darker blue",
+      "Red to lighter red"
+    ],
+    "answer": "Blue to red/purple"
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "Which of the following lines correctly modifies the color of the object?",
+    "options": [
+      "GetComponent<Renderer>().sharedMaterial.color = Color.red:",
+      "GetComponent<Renderer>().sharedMaterial.color $=(255,0,0);$",
+      "GetComponent<Renderer>().sharedMaterial.color = (255,0,0); GetComponent<Renderer>().sharedMaterial.color = Color.red;",
+      "GetComponent<Renderer>().sharedMaterial.color $=(255,0,0);$",
+      "GetComponent<Renderer>().sharedMaterial.color = Color.red;"
+    ],
+    "answer": "GetComponent<Renderer>().sharedMaterial.color = Color.red"
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "What is the purpose of setting the second sphere as a child of the first sphere in Unity?",
+    "options": [
+      "To make both spheres the same size.",
+      "To allow the child sphere to move independently",
+      "To ensure the child inherits transformations from the parent",
+      "To apply the same material to both spheres.",
+      "To reduce rendering load."
+    ],
+    "answer": "To ensure the child inherits transformations from the parent."
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "Why does placing a text object directly on a wall surface sometimes result in visual glitches?",
+    "options": [
+      "The wall material is incompatible with text",
+      "Unity doesn't support text in 3D space.",
+      "The text collides with the wall collider",
+      "It causes Z-fighting due to overlapping surfaces.",
+      "The text object requires a canvas to render correctly."
+    ],
+    "answer": "It causes Z-fighting due to overlapping surfaces."
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "Which of the following statements about Unity materials is TRUE?",
+    "options": [
+      "You can only assign a material to one object at a time.",
+      "A material without an albedo will be invisible.",
+      "A normal map adds physical geometry to the model.",
+      "A normal map simulates surface detail without altering geometry",
+      "Unity does not support normal maps by default."
+    ],
+    "answer": "A normal map simulates surface detail without altering geometry."
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "What does the Transform component in Unity control?",
+    "options": [
+      "Only the position",
+      "Only the rotation",
+      "Only the scale",
+      "Position, rotation, and scale",
+      "Just parenting"
+    ],
+    "answer": "Position, rotation, and scale"
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "What happens if you rotate the parent sphere that has a child sphere offset along the X-axis?",
+    "options": [
+      "The child will orbit around the parent sphere.",
+      "The child will remain stationary.",
+      "The child will rotate around its own axis.",
+      "The child will disappear.",
+      "Nothing will happen."
+    ],
+    "answer": "The child will orbit around the parent sphere."
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "In Unity scripting, why is Time.deltaTime used inside the Update() method?",
+    "options": [
+      "To increase the frame rate.",
+      "To slow down animations.",
+      "To make updates run faster on slower computers.",
+      "To ensure consistent behavior regardless of frame rate:",
+      "To reduce memory usage."
+    ],
+    "answer": "To ensure consistent behavior regardless of frame rate"
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "What is the correct way to make an object respond to gaze input using the Cardboard Reticle Pointer system?",
+    "options": [
+      "Attach a camera to the object.",
+      "Add a Rigidbody component.",
+      "Put the object in the Default layer.",
+      "Enable Physics Raycaster on the object.",
+      "Implement OnPointerEnter() and OnPointerExit() in a script"
+    ],
+    "answer": "Implement OnPointerEnter() and OnPointerExit() in a script"
+  },
+  {
+    "assignment": "Week 5: Assignment 2",
+    "question": "Which C# method is called once per frame and used for continuous updates in Unity?",
+    "options": ["Start()", "Init()", "Awake()", "Update()", "FixedUpdate()"],
+    "answer": "Update()"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which part of the human eye provides the greatest optical power (largest diopter)?",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Lens",
+      "Pupil",
+      "Aqueous humor",
+      "None of the above"
+    ],
+    "answer": "Cornea"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which one of the following is NOT a part of the human eye?",
+    "options": [
+      "Ganglion cells",
+      "Fovea",
+      "The blind spot",
+      "Bipolar cells",
+      "None of the above"
+    ],
+    "answer": "Bipolar cells"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "The light from the front of the eye passes through the following cells, except for which one, before reaching the retina?",
+    "options": [
+      "Thalamus",
+      "Bipolar cells",
+      "Ganglion cells",
+      "Photoreceptor cells",
+      "Visual cortex",
+      "None of the above"
+    ],
+    "answer": "Thalamus"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which part of the retina has the largest concentration (density) of cones?",
+    "options": [
+      "The innermost layer",
+      "Near periphery",
+      "The blind spot",
+      "Far periphery",
+      "A small, central region called fovea",
+      "None of the above"
+    ],
+    "answer": "A small, central region called fovea"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which part of the retina has the largest concentration (density) of rods?",
+    "options": [
+      "The innermost layer",
+      "Near periphery",
+      "The blind spot",
+      "Far periphery",
+      "A small, central region called fovea",
+      "Vitreous humor"
+    ],
+    "answer": "Near periphery"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which one of the following is NOT a common aspect of human vision that can cause issues in VR?",
+    "options": [
+      "Saccades",
+      "Temporal multiplexing",
+      "Opto-kinetic reflex",
+      "Monochromatic adaptation",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which process changes the diopter of the human eye?",
+    "options": [
+      "Accommodation",
+      "Smooth pursuit",
+      "Vestibular reflex",
+      "Temporal multiplexing",
+      "None of the above"
+    ],
+    "answer": "Accommodation"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "You are wearing an HMD and in VR you are looking across the virtual room. You spot the remote control for the television. As you walk toward the remote, you keep your eyes focused on the remote. How will the shape of your eye lens change as you move closer to the remote?",
+    "options": [
+      "Lens curvature will increase",
+      "Lens curvature will not change",
+      "Lens curvature will decrease",
+      "Lens curvature will become square",
+      "None of the above"
+    ],
+    "answer": "Lens curvature will not change"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which of the following is NOT a common aspect of human vision and might be a major contributor to eye strain and fatigue in VR?",
+    "options": [
+      "Images are upside down on the retina in real world or virtual world",
+      "The human eye lens has chromatic aberration",
+      "Objects located at various distances but not in corresponding points result in diplopia (double vision)",
+      "Objects located at close distances cause vergence-accommodation mismatch",
+      "The human eye changes shapes to accommodate different viewing distances",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which of the following statements is TRUE about vergence-accommodation mismatch (VAM) in VR?",
+    "options": [
+      "It is only required to focus on objects of different sizes, but the vergence angle remains the same",
+      "It occurs when the eyes are impaired to focus on objects at different focal planes, but the vergence angle remains the same",
+      "It occurs when the eyes are impaired to focus on objects on the same focal plane, but the vergence angles vary",
+      "It occurs when the eyes are impaired to focus on objects at different focal planes, but the vergence angles vary",
+      "VAM is a comfortable phenomenon and does not cause eye strain or fatigue",
+      "None of the above"
+    ],
+    "answer": "It occurs when the eyes are impaired to focus on objects on the same focal plane, but the vergence angles vary"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "How far should a virtual object be to their eye in VR, so that they can no longer accommodate focus on it? (Note: Do not forget the assumptions: person with 20/20 vision and a simplified HMD model)",
+    "options": [
+      "Virtually touching the user's nose, to simulate extreme proximity",
+      "About $2-3$ meters, as per Oculus Best Practices Guide",
+      "About $50$ cm, which is the distance to the screen in an HMD",
+      "The user can only focus on comfortable viewing distances in VR, as recommended by Best Practices",
+      "Any distance, large or small, will result in a loss of ability to accommodate",
+      "None of the above"
+    ],
+    "answer": "No distance, large or small, will result in a loss of ability to accommodate"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "At low light levels, vision depends predominantly on:",
+    "options": [
+      "Rod cells located on the far periphery, this is why we don't see anything at more than 20 degrees off of fovea",
+      "Blue cone photoreceptors",
+      "Green cone photoreceptors",
+      "Yellow cone photoreceptors",
+      "Rod cells",
+      "None of the above"
+    ],
+    "answer": "Rod cells"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which color of light is less likely than others to affect adaptation (photoreceptors)?",
+    "options": ["Red", "Green", "Yellow", "White", "Blue", "None of the above"],
+    "answer": "Red"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which one is correct?",
+    "options": [
+      "White objects become more difficult to see at night than blue or green objects with similar reflectance values",
+      "Red objects become more difficult to see at night than blue or green objects with similar reflectance values",
+      "Green objects become more difficult to see at night than red objects with similar reflectance values",
+      "Blue objects become more difficult to see at night than green objects with similar reflectance values",
+      "None of the above"
+    ],
+    "answer": "Red objects become more difficult to see at night than blue or green objects with similar reflectance values"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which eye movement serves to counteract head rotation?",
+    "options": [
+      "Saccades",
+      "Smooth pursuit",
+      "Vergence",
+      "Opto-kinetic reflex",
+      "Vestibulo-ocular reflex",
+      "None of the above"
+    ],
+    "answer": "Vestibulo-ocular reflex"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which one of the following statements about eye movements is wrong?",
+    "options": [
+      "The rotational movement of each eye is caused by four different muscles",
+      "Opto-kinetic response helps us keep track of slow-moving objects",
+      "The optic nerve controls eye movement",
+      "When tracking a fast moving object, smooth pursuit may be $10^{\\circ}$/sec, but vergence can go up to $100^{\\circ}$/sec to keep up with it",
+      "None of the above"
+    ],
+    "answer": "The optic nerve controls eye movement"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "If you are viewing a screen at a distance of $50$ inches and you would like to have $60$ pixels per degree to ensure individual pixels are not visible, how many pixels per inch does your display need to have? (For this problem, use approximation $\\tan(\\theta) \\approx \\theta$ when $\\theta$ is small, $\\tan(1^{\\circ}) \\approx 0.02$.)",
+    "options": ["20", "60", "120", "200", "None of the above"],
+    "answer": "60"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which of the following modern VR displays has \"retina display\" resolution as defined in class?",
+    "options": [
+      "PSVR",
+      "Oculus Rift S",
+      "HTC Vive Pro",
+      "Oculus Quest 2",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which one is an appropriate unit to describe \"retina display\" resolution with respect to human visual acuity (independent of the distance to the eye)?",
+    "options": [
+      "Pixels per inch",
+      "Pixels per centimeter",
+      "Pixels per degree",
+      "Pixels per foot",
+      "Pixels per square inch (PPS)",
+      "None of the above"
+    ],
+    "answer": "Pixels per degree"
+  },
+  {
+    "assignment": "Week 6: Assignment 6",
+    "question": "Which statement is true regarding display resolution and viewing distance for achieving retina display quality?",
+    "options": [
+      "The further a person is away, the display's PPI needs to remain the same.",
+      "The further a person is away, the display's PPI needs to be lower.",
+      "The PPI requirement for retina display is the same regardless of viewing distance.",
+      "Retina display quality is solely dependent on screen size, not viewing distance.",
+      "A display with higher resolution is always better, regardless of viewing distance.",
+      "None of the above"
+    ],
+    "answer": "The further a person is away, the display's PPI needs to be lower."
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "is a hypothetical neural circuit describing how the brain might compute motion.",
+    "options": [
+      "Reichardt detector",
+      "Darwin detector",
+      "McGurk effect",
+      "Interposition",
+      "Thalamus",
+      "None of the above."
+    ],
+    "answer": "Reichardt detector"
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "A Reichardt detector MOST likely corresponds to a",
+    "options": [
+      "ganglion cell",
+      "cortical cell",
+      "rod",
+      "cone",
+      "bipolar cell",
+      "None of the above."
+    ],
+    "answer": "cortical cell"
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "A Reichardt detector fires when two photoreceptors fire simultaneously.",
+      "Reichardt detectors in humans are well understood neural structures.",
+      "A Reichardt detector only responds to specific motion directions and speeds.",
+      "Reichardt detectors respond equally to all motion directions.",
+      "Reichardt detectors primarily detect color in the visual scene.",
+      "None of the above."
+    ],
+    "answer": "A Reichardt detector only responds to specific motion directions and speeds."
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "The wagon wheel effect illustrates",
+    "options": [
+      "stroboscopic apparent motion",
+      "the motion aftereffect",
+      "the McGurk effect",
+      "Visual acuity",
+      "vergence-accommodation mismatch",
+      "None of the above."
+    ],
+    "answer": "stroboscopic apparent motion"
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "What is the minimal frame rate required to no longer perceive individual frames?",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "24 Hz",
+      "60 Hz",
+      "90 Hz",
+      "180 Hz",
+      "None of the above"
+    ],
+    "answer": "10 Hz"
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "What is the minimal frame rate required to perceive ANY motion as continuous on a screen in an HMD?",
+    "options": [
+      "2 Hz",
+      "10 Hz",
+      "24 Hz",
+      "60 Hz",
+      "90 Hz",
+      "180 Hz",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "Which one of the following statements is incorrect?",
+    "options": [
+      "Increasing the frame rate on an always-on display will reduce judder/retinal image slip.",
+      "If the frame rate is insufficient, flicker may be perceived on a low persistence display.",
+      "Since there is no \"black-out\" between frames, flicker is typically not a problem with always-on displays",
+      "Retinal image slip happens when the eye physically moves over updating pixels on the screen.",
+      "Both judder and flicker are potential issues in VR HMDs, but not in computer monitors.",
+      "None of the above."
+    ],
+    "answer": "Both judder and flicker are potential issues in VR HMDs, but not in computer monitors."
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "Which of the following depth cues is not present in panoramas?",
+    "options": [
+      "Linear perspective.",
+      "Texture gradient.",
+      "Atmospheric perspective",
+      "Motion parallax",
+      "Interposition.",
+      "None of the above."
+    ],
+    "answer": "Motion parallax."
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "If you wear an eye patch over your right eye then",
+    "options": [
+      "You will only perceive objects on your left side.",
+      "Your vision will be unaffected by the eye patch",
+      "You will be able to see objects across the visual field, but will have problems with depth perception",
+      "You will only perceive objects on your right side.",
+      "You will only see objects in black and white.",
+      "None of the above."
+    ],
+    "answer": "You will be able to see objects across the visual field, but will have problems with depth perception."
+  },
+  {
+    "assignment": "Week 7: Assignment 1",
+    "question": "Which one of the following statements is incorrect about diplopia?",
+    "options": [
+      "Diplopia occurs all the time for objects outside of the eye accommodation depth",
+      "Diplopia only occurs in real life, but not in VR.",
+      "Diplopia is a part of normal human vision.",
+      "You can not perceive diplopia with one eye closed.",
+      "Diplopia is also known as \"double vision.\"",
+      "None of the above."
+    ],
+    "answer": "Diplopia only occurs in real life, but not in VR."
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "To create a reference in a script to an object in Unity, what should you do?",
+    "options": [
+      "Define it in the script as a public variable and then assign the object in the Inspector",
+      "Tag the object and hope Unity finds it",
+      "Search in the Console",
+      "Unity links objects automatically"
+    ],
+    "answer": "Define it in the script as a public variable and then assign the object in the Inspector"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "What does the function transform.LookAt(target) do in a script attached to an object?",
+    "options": [
+      "Rotates the object to face the target",
+      "Moves the object toward the target",
+      "Rotates the object so that its Z axis points at the target.",
+      "Creates a Raycast pointing away from the target",
+      "Rotates the object so that its Y axis faces the target"
+    ],
+    "answer": "Rotates the object so that its Z axis points at the target."
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "What does Debug.Log(angle) do in a script in Unity?",
+    "options": [
+      "Logs an error and stops the script",
+      "Sends a message to all connected devices",
+      "Prints the value of angle to the Console",
+      "Displays a dialog box",
+      "Cleans the Console and starts a profiler"
+    ],
+    "answer": "Prints the value of angle to the Console"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "Which of the following is a suitable function call to rotate an object to match the roll of the player, defined by the Main Camera object?",
+    "options": [
+      "transform.rotation.Set(MainCamera.transform.rotation.x, 0, MainCamera.transform.rotation.z, 0)",
+      "transform.rotation = Quaternion.Euler(0, 0, MainCamera.transform.rotation.z * 100)",
+      "transform.rotation = Quaternion.Euler(0, 0, MainCamera.transform.rotation.z * 45)",
+      "transform.rotation = MainCamera.transform.rotation",
+      "transform.rotation = Quaternion.AngleAxis(45, Vector3.up)"
+    ],
+    "answer": "transform.rotation = Quaternion.Euler(0, 0, MainCamera.transform.rotation.z * 45)"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "What does Quaternion.AngleAxis(45, Vector3.forward) represent?",
+    "options": [
+      "A rotation of $45$ degrees around the Z-axis",
+      "A $45^{\\circ}$ pitch rotation",
+      "A complex transformation",
+      "A 2D rotation in radians"
+    ],
+    "answer": "A rotation of 45 degrees around the Z-axis"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "How can you calculate the angle between quaternions defined by transform.rotation and target.rotation?",
+    "options": [
+      "Quaternion.Angle(transform.rotation, target.rotation)",
+      "Quaternion.FromToRotation(transform.rotation, target.rotation)",
+      "transform.rotation / target.rotation",
+      "Quaternion.Euler(transform.rotation - target.rotation)"
+    ],
+    "answer": "Quaternion.Angle(transform.rotation, target.rotation)"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "What does transform.forward represent?",
+    "options": [
+      "World forward $(0, 0, 1)$",
+      "World direction $(1, 0, 0)$",
+      "The direction of the object's Z axis",
+      "Global X-axis",
+      "Main Camera's left direction"
+    ],
+    "answer": "The direction of the object's Z axis"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "If you want an object to always be $2$ units in front of the camera, which code would achieve this?",
+    "options": [
+      "transform.position = Camera.main.transform.position + Camera.main.transform.forward * 2",
+      "transform.position = Camera.main.transform.position + Camera.main.transform.right * 2",
+      "transform.position = Camera.main.transform.position + Camera.main.transform.up * 2",
+      "transform.position = Camera.main.transform.position + new Vector3(0, 0, 2)"
+    ],
+    "answer": "transform.position = Camera.main.transform.position + Camera.main.transform.forward * 2"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "Why should you remove Mesh Collider from crosshair planes in this homework?",
+    "options": [
+      "Mesh Colliders block camera input",
+      "Crosshairs should not interact with physics",
+      "Planes cannot be transparent with colliders",
+      "Unity doesn't allow Mesh Colliders in VR",
+      "It makes them invisible"
+    ],
+    "answer": "Crosshairs should not interact with physics"
+  },
+  {
+    "assignment": "Week 7: Assignment 2",
+    "question": "What does tagging an object as \"interactable\" achieve?",
+    "options": [
+      "It automatically sets the object to be animated in scripts",
+      "It makes Unity animate the object",
+      "It allows Raycast checks to identify it for interaction",
+      "It changes its layer",
+      "It changes its collider type."
+    ],
+    "answer": "It allows Raycast checks to identify it for interaction"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "A velocity sensor samples at $1000$ Hz ($\\Delta t = 0.001$ s). If the velocity error per step is $0.0001$ m/s, what is the total positional drift after $1000$ steps using Euler integration?",
+    "options": [
+      "$0.01$ m",
+      "$1.0$ m",
+      "$2.0$ m",
+      "$0.05$ m",
+      "$0.5$ m",
+      "$0.0001$ m"
+    ],
+    "answer": "$0.0001$ m"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which of the following best describes the purpose of coordinate frame transformations in motion modelling?",
+    "options": [
+      "To express motion data consistently across different reference frames",
+      "To reduce sensor noise during integration",
+      "To eliminate drift in position estimates",
+      "To synchronize audio and visual signals",
+      "To interpolate missing sensor values",
+      "To convert rotational motion into linear motion"
+    ],
+    "answer": "To express motion data consistently across different reference frames"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which of the following is a drawback of Euler integration in motion modelling?",
+    "options": [
+      "Error grows quadratically with time",
+      "Needs Kalman filtering",
+      "Cannot be used for rotational motion",
+      "Requires high computational power",
+      "Requires matrix inversion",
+      "Error is proportional to the timestep"
+    ],
+    "answer": "Error is proportional to the timestep"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which of the following is a benefit of using Kalman filters in motion modelling?",
+    "options": [
+      "Increases rendering speed",
+      "Reduces sensor noise",
+      "Simplifies the user interface",
+      "Enhances audio fidelity",
+      "Eliminates latency",
+      "Improves display resolution"
+    ],
+    "answer": "Reduces sensor noise"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which components contribute directly to motion-to-photon latency in a standalone VR headset (such as the Google Cardboard)?",
+    "options": [
+      "Audio signal processing",
+      "Rendering and display refresh",
+      "Battery charging time",
+      "Network transmission delay"
+    ],
+    "answer": "Rendering and display refresh"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which of the following is NOT a method to reduce latency in VR rendering?",
+    "options": [
+      "Reducing shading time",
+      "Optimizing sensor fusion algorithms",
+      "Increasing display resolution",
+      "Employing asynchronous timewarp",
+      "Using viewpoint prediction",
+      "Lowering scene complexity"
+    ],
+    "answer": "Increasing display resolution"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "In advanced VR headsets, which combination of sensors is most commonly used to achieve low-latency and drift corrected head orientation tracking?",
+    "options": [
+      "Accelerometer, gyroscope, and magnetometer",
+      "Gyroscope and barometer",
+      "GPS and infrared sensor",
+      "Accelerometer and magnetometer only"
+    ],
+    "answer": "Accelerometer, gyroscope, and magnetometer"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which of the following best describes the function of the utricle in the vestibular system?",
+    "options": [
+      "Detects vertical linear acceleration",
+      "Detects lateral linear acceleration",
+      "Regulates balance via the cerebellum",
+      "Detects angular acceleration",
+      "Controls eye movement",
+      "Detects rotational velocity"
+    ],
+    "answer": "Detects lateral linear acceleration"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which optic flow patterns will not cause a sensory mismatch when the user is stationary (and may not cause sickness)?",
+    "options": [
+      "Forward/backwards flow",
+      "Lateral flow",
+      "Vertical flow",
+      "Pitch flow",
+      "Yaw flow"
+    ],
+    "answer": "Forward/backwards flow;Vertical flow;Pitch flow"
+  },
+  {
+    "assignment": "Week 8: Assignment 1",
+    "question": "Which of the following best represents the correct sequence of steps in the scientific method?",
+    "options": [
+      "Experiment $\\rightarrow$ Hypothesis $\\rightarrow$ Observation $\\rightarrow$ Analysis $\\rightarrow$ Conclusion",
+      "Conclusion $\\rightarrow$ Experiment $\\rightarrow$ Hypothesis $\\rightarrow$ Observation $\\rightarrow$ Analysis",
+      "Hypothesis $\\rightarrow$ Observation $\\rightarrow$ Experiment $\\rightarrow$ Conclusion $\\rightarrow$ Analysis",
+      "Observation $\\rightarrow$ Hypothesis $\\rightarrow$ Experiment $\\rightarrow$ Analysis $\\rightarrow$ Conclusion"
+    ],
+    "answer": "Observation $\\rightarrow$ Hypothesis $\\rightarrow$ Experiment $\\rightarrow$ Analysis $\\rightarrow$ Conclusion"
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "Why is viewing the red cube uncomfortable in Scene 1?",
+    "options": [
+      "The brightness of the cube is too high",
+      "The size of the cube is too big",
+      "The cube is visible to only one eye",
+      "I don't notice any discomfort.",
+      "HMD's software is not up to date",
+      "Complex geometries cause chromatic aberration"
+    ],
+    "answer": "The cube is visible to only one eye"
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "What is the biggest reason behind judder and tracking delay in Scene 2?",
+    "options": [
+      "A drop in FPS due to GPU not being able to render complex geometries.",
+      "Simplifying polygonal models in the environment would resolve this problem.",
+      "The juddering is not noticeable at all.",
+      "HMD's software is not up to date",
+      "Random cosmic rays interfering with the VR equipment cause unpredictable issues.",
+      "Rotational tracking is disabled in this room",
+      "Chromatic aberration causes aliasing"
+    ],
+    "answer": "A drop in FPS due to GPU not being able to render complex geometries.;Simplifying polygonal models in the environment would resolve this problem"
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "What makes the cube in Scene 3 unusual?",
+    "options": [
+      "Is it? I find it completely normal",
+      "The cube is B/W",
+      "The color of the cube is different for each eye.",
+      "Vergence-accommodation mismatch causes rotating objects to seem blurry.",
+      "Red and green colors in VR can't be perceived properly",
+      "Complex geometries cause chromatic aberration. Simplifying polygonal models in the environment would resolve the problem."
+    ],
+    "answer": "The color of the cube is different for each eye."
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "Why do you feel like your eyesight for one eye is poorer than another in Scene 4?",
+    "options": [
+      "Hardware problem with my HMD lens.",
+      "The resolution of the scene is too low in one eye.",
+      "The program is not properly loaded yet",
+      "Because your left eye is receiving more light than your right eye, causing the imbalance in eyesight.",
+      "Rotational tracking is disabled in this room",
+      "Positional tracking is enabled in this room."
+    ],
+    "answer": "The resolution of the scene is too low in one eye."
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "What is unusual about the painting displayed in Scene 5?",
+    "options": [
+      "It appears normal",
+      "It looks bigger in one eye than the other.",
+      "The color is different in one eye than the other",
+      "The texture resolution is different in one eye than the other",
+      "It slightly shifts in one eye but not the other",
+      "It slightly rotates in one eye but not the other"
+    ],
+    "answer": "The texture resolution is different in one eye than the other."
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "Which one of the statements is correct about the paintings on the wall of Scene 6?",
+    "options": [
+      "You can read more about these paintings by Salvadore Dali here",
+      "Left image is more colorful and detailed for the left eye.",
+      "Objects have different colors for the left and right eye.",
+      "The right image is more colorful and detailed for the right eye",
+      "This scene demonstrates the effects of binocular disparities and rivalry in VR",
+      "All options are correct"
+    ],
+    "answer": "All options are correct"
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "When you stare at a point on the wall of Scene 7, you notice that the room rotates slowly. What might be the reason behind it?",
+    "options": [
+      "Simulation of yaw drift in tracking.",
+      "Because of Earth's rotation, the accelerometer in the HMD detects rotation movement. It is normal in VR.",
+      "There is a drop in FPS.",
+      "The room feels tilted and the tilt is growing with time.",
+      "The FOV is decreased in this Room",
+      "None of the above."
+    ],
+    "answer": "Simulation of yaw drift in tracking."
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "How do you feel inside Scene 8?",
+    "options": [
+      "Nothing, this is the first normal room that doesn't mess with your senses.",
+      "The room appears to have a faint smell of freshly baked cookies, but that's just an illusion.",
+      "The resolution of the walls is mismatched.",
+      "There is a drop in FPS.",
+      "The room feels tilted and the tilt is growing with time",
+      "The FOV is decreased in this Room"
+    ],
+    "answer": "The room feels tilted and the tilt is growing with time."
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "Why is Scene 9 an example of bad project design?",
+    "options": [
+      "The fog is disorienting. It moves as if it were rigidly attached to your head.",
+      "The room has low image resolution.",
+      "Head tracking doesn't work",
+      "There is a drop in FPS.",
+      "The FOV is decreased in this Room.",
+      "It's dark, foggy, and scary. In terms of VR design, nothing to complain about"
+    ],
+    "answer": "The fog is disorienting. It moves as if it were rigidly attached to your head"
+  },
+  {
+    "assignment": "Week 8: Assignment 2",
+    "question": "In which of the rooms does diplopia occur?",
+    "options": [
+      "In Scene 1 only.",
+      "In Scene 2 only.",
+      "In Scene 4 only",
+      "In Scene 5, only",
+      "In Scene 7 only",
+      "In all scenes"
+    ],
+    "answer": "In all scenes"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which part of the vestibular system detects gravity and linear acceleration?",
+    "options": [
+      "Semicircular canals",
+      "Cochlea",
+      "Utricle and Saccule",
+      "Tympanic membrane",
+      "None of the above"
+    ],
+    "answer": "Utricle and Saccule"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "What is the primary function of a VR HMD in terms of vision?",
+    "options": [
+      "Magnifying the screen image to fill the FOV.",
+      "Presenting the user with a stereoscopic view of the virtual scene.",
+      "Converting the amount of time during which the user can be aware of the environment.",
+      "None of the above"
+    ],
+    "answer": "Presenting the user with a stereoscopic view of the virtual scene."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which of the following statements about VR sickness is FALSE?",
+    "options": [
+      "VR sickness is typically caused by a sensory mismatch between human senses (vestibular, visual, etc).",
+      "The user's perception of stationarity is what is most commonly wrong, causing VR sickness.",
+      "VR sickness is cured by vendors but is only a temporary and not a necessary exposure to VR.",
+      "None of the above"
+    ],
+    "answer": "VR sickness is cured by vendors but is only a temporary and not a necessary exposure to VR."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which one is TRUE about vection in VR HMDs?",
+    "options": [
+      "The magnitude of vection is only a function of the angular velocity, which is constant in a VR HMD.",
+      "Vection is caused by visual motion and does not involve other senses.",
+      "Vection is cut out by vendors, but is a necessary exposure to VR.",
+      "Vection is reduced by simulating the motion of the user's heart and body.",
+      "None of the above"
+    ],
+    "answer": "Vection is caused by visual motion and does not involve other senses."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which one of the following optic flow scenarios is recommended to avoid VR sickness?",
+    "options": [
+      "Yaw rotation of the visual scene with constant angular velocity",
+      "Translation along the Y-axis with constant velocity",
+      "Pitch rotation of the visual scene with constant angular velocity",
+      "Rotation and translation with constantly changing angular velocity and acceleration",
+      "None of the above"
+    ],
+    "answer": "Rotation and translation with constantly changing angular velocity and acceleration"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which of the following statements about optic flow is FALSE?",
+    "options": [
+      "Optic flow only appears in VR HMDs when the user is actually moving.",
+      "The phenomenon of optic flow is the consequence of the coordinated movement and direction of an object or the whole scene.",
+      "Optic flow generated in VR is essentially a simulated version of the physical world's optic flow.",
+      "Optic flow can be generated by a VR server, even if the user is stationary.",
+      "None of the above"
+    ],
+    "answer": "Optic flow only appears in VR HMDs when the user is actually moving."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "What is the most important factor in comfortable locomotion in VR?",
+    "options": [
+      "Instantaneous rotation",
+      "Smooth movement with a constant speed",
+      "Simulated up and down vection (the sensation of vertical motion) to imitate steps.",
+      "None of the above"
+    ],
+    "answer": "Instantaneous rotation"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "For large menus in VR, which one is considered to be most comfortable?",
+    "options": [
+      "Rotating menus by turning the head, but touching off on interaction.",
+      "Rotating menus that are always attached to the user's eye, with less than $20$ ms latency and good resolution.",
+      "A stationary menu that is anchored in the world.",
+      "None of the above"
+    ],
+    "answer": "A stationary menu that is anchored in the world."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which of the following statements is FALSE about motion-to-photon latency in VR HMDs?",
+    "options": [
+      "Motion-to-photon latency is the time it takes for the graphics card to perform the drawing command and for the screen to update with the new image.",
+      "Motion-to-photon latency is the time it takes for the graphics card to perform the drawing command.",
+      "Motion-to-photon latency is the time it takes for the screen to update with the new image.",
+      "Motion-to-photon latency is typically less than $20$ ms for comfortable VR.",
+      "None of the above"
+    ],
+    "answer": "Motion-to-photon latency is the time it takes for the graphics card to perform the drawing command."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which one of the following is TRUE about motion tracking for high-quality $6$ DOF VR HMDs?",
+    "options": [
+      "All good VR HMDs only contain the following tracking sensors: accelerometer, gyroscope, and magnetometer.",
+      "Cameras are necessary for high-quality positional tracking in modern $6$ DOF VR HMDs.",
+      "Cameras are essential for high-quality rotational tracking in modern $6$ DOF VR HMDs.",
+      "None of the above"
+    ],
+    "answer": "Cameras are necessary for high-quality positional tracking in modern $6$ DOF VR HMDs."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Consider a camera with a $1000 \\times 1000$ pixels and an angular resolution of $0.001^{\\circ}$ per pixel. How many degrees approximately can you integrate a position tracking estimate until the accumulated error is equal to $0.01$ m?",
+    "options": ["10", "100", "1", "None of the above"],
+    "answer": "1"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "What is the maximum angular velocity between the camera frames? (You are given a gyroscope that reports estimates for angular velocity (acceleration) around $\\begin{pmatrix} X \\\\ Y \\\\ Z \\end{pmatrix}$ at $1000$ Hz with an accuracy of $0.0001 \\frac{\\text{rad}}{\\text{s}}$. Assume a camera with $1000 \\times 1000$ pixels and an angular resolution of $0.001^{\\circ}$ per pixel. After that, you want to use the gyroscope to interpolate the rotational estimates between the camera frames.)",
+    "options": [
+      "$1000 \\frac{\\text{rad}}{\\text{s}}$",
+      "$0.1$ rad/s",
+      "$1$ rad/s",
+      "None of the above"
+    ],
+    "answer": "$1$ rad/s"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "What is the accumulation of time drift between the camera frames? (You are given a gyroscope that reports estimates for angular velocity (acceleration) around $\\begin{pmatrix} X \\\\ Y \\\\ Z \\end{pmatrix}$ at $1000$ Hz with an accuracy of $0.0001 \\frac{\\text{rad}}{\\text{s}}$. Assume a camera with $1000 \\times 1000$ pixels and an angular resolution of $0.001^{\\circ}$ per pixel. After that, you want to use the gyroscope to interpolate the rotational estimates between the camera frames.)",
+    "options": [
+      "$1000 \\frac{\\text{rad}}{\\text{s}}$",
+      "$0.1$ rad/s",
+      "$1$ rad/s",
+      "None of the above"
+    ],
+    "answer": "None of the above"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "What is the primary function of VR sickness reducing hardware?",
+    "options": [
+      "To adjust the user's head position and orientation in the virtual environment",
+      "To reduce motion sickness and discomfort in VR experiences",
+      "To reduce the user's motion to prevent VR sickness",
+      "To remove the user from the virtual environment when VR sickness occurs",
+      "None of the above"
+    ],
+    "answer": "To reduce motion sickness and discomfort in VR experiences"
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "Which of the following statements is FALSE about gyroscope drift?",
+    "options": [
+      "Gyroscope drift is an angular acceleration accumulation of error due to Earth's gravity.",
+      "Gyroscope drift is typically solved using a Kalman filter.",
+      "Gyroscope drift is one of the main problems of IMU-based rotational tracking in VR HMDs.",
+      "None of the above"
+    ],
+    "answer": "Gyroscope drift is an angular acceleration accumulation of error due to Earth's gravity."
+  },
+  {
+    "assignment": "Week 9: Assignment 1",
+    "question": "What should you do when you feel dizzy or nauseous while using VR glasses?",
+    "options": [
+      "Ask the virtual world to get a lift",
+      "Take a break and get some fresh air",
+      "Increase the brightness of the scene",
+      "Close one eye while using VR",
+      "None of the above"
+    ],
+    "answer": "Take a break and get some fresh air"
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "When designing menus, mention one bad design choice in Scene 1.",
+    "options": [
+      "No bad design choice.",
+      "The software-set IPD is too low.",
+      "The menu jumps suddenly and may cause vection and/or discomfort",
+      "The resolution of the scene is too low.",
+      "There is a yaw drift in the scene.",
+      "The FOV is too low"
+    ],
+    "answer": "The menu jumps suddenly and may cause vection and/or discomfort"
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "Mention one bad design choice in Scene 2",
+    "options": [
+      "No bad design choice.",
+      "The software-set IPD is too low",
+      "Camera doesn't focus properly.",
+      "The resolution of the scene is too low.",
+      "Self-elevation results in vection",
+      "The FOV is too low"
+    ],
+    "answer": "Self-elevation results in vection"
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "What would be the most effective way to reduce the discomfort in Scene 2?",
+    "options": [
+      "Ask the user for their IPD and update the given value in software",
+      "Use of a camera with sharp focus.",
+      "Nothing can make it better.",
+      "Use of teleportation",
+      "Widen the FOV",
+      "Ask the user to look down during elevation"
+    ],
+    "answer": "Use of teleportation."
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "There is one design choice problem in Scene 3, what would fix it?",
+    "options": [
+      "The use of too many objects (grass) in the scene causes a drop in FPS.",
+      "Using a more powerful GPU would improve the comfort.",
+      "The scene is well designed.",
+      "The grass follows your head motion, it happens when the hierarchy of objects in Unity is not correctly implemented. Fixing the hierarchy in Unity will eliminate the problem.",
+      "Reducing the number of objects in the scene would help with dropped frames",
+      "Ask the user to not look at the grass",
+      "There is a yaw drift in the scene that can be corrected by a better tracking algorithm."
+    ],
+    "answer": "The grass follows your head motion, it happens when the hierarchy of objects in Unity is not correctly implemented. Fixing the hierarchy in Unity will eliminate the problem."
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "Which UI choice in Scene 4 is better and why?",
+    "options": [
+      "Pointer following the surface makes interaction easier.",
+      "Pointer at a fixed distance looks cool",
+      "It doesn't matter, both design choices for pointers are equally good design choices",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "Choose the best option for the menu design in Scene 5.",
+    "options": [
+      "It is most comfortable when the large menu follows your head.",
+      "It is most comfortable when the menu occupies a large portion of your FOV",
+      "When the menu follows your movement, it would be better to introduce a bigger lag in the movement.",
+      "When the menu follows your movement, it would be better to make it smaller to occupy less of FOV",
+      "It is better to place the menu close to your eyes, because it reduces vection.",
+      "It would be better to place a stationary menu in the scene (just like in the main scene of this homework)."
+    ],
+    "answer": "When the menu follows your movement, it would be better to make it smaller to occupy less of FOV;It would be better to place a stationary menu in the scene (just like in the main scene of this homework."
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "Mention one bad design choice in Scene 6.",
+    "options": [
+      "The surface is tilted",
+      "The FOV is too low",
+      "The software-set IPD is too low",
+      "The resolution of the scene is too low.",
+      "There is a yaw drift in the scene.",
+      "The scene looks perfectly fine."
+    ],
+    "answer": "The FOV is too low"
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "What could improve the discomfort in Scene 6?",
+    "options": [
+      "Nothing can make it better.",
+      "Align the surface properly to avoid discomfort",
+      "Use a less saturated image",
+      "Ask the user to look up",
+      "Widen the FOV",
+      "Ask the user to lay down."
+    ],
+    "answer": "Widen the FOV"
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "Mention one bad design choice in Scene 7.",
+    "options": [
+      "The surface is tilted",
+      "The FOV is too low",
+      "The software-set IPD is too low",
+      "The resolution of the scene is too low",
+      "There is a yaw drift in the scene",
+      "The scene looks perfectly fine."
+    ],
+    "answer": "The surface is tilted."
+  },
+  {
+    "assignment": "Week 9: Assignment 2",
+    "question": "What could improve the discomfort in Scene 7?",
+    "options": [
+      "Nothing can make it better.",
+      "Align the surface properly to avoid discomfort.",
+      "Use a less saturated image",
+      "Ask the user to look up.",
+      "Widen the FOV",
+      "Allow the use of teleportation"
+    ],
+    "answer": "Align the surface properly to avoid discomfort."
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "In the rendering pipeline, which transformation moves a model from its own coordinate system into the world coordinate system?",
+    "options": [
+      "View Transform",
+      "Model Transform",
+      "Canonical Transform",
+      "Viewport Transform"
+    ],
+    "answer": "Model Transform"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "Which transformation in the rendering pipeline converts world coordinates into eye (camera) coordinates?",
+    "options": [
+      "Model Transform",
+      "View Transform",
+      "Canonical Transform",
+      "Projection Transform"
+    ],
+    "answer": "View Transform"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "After the canonical transformation, what is the shape and size of the canonical view volume?",
+    "options": [
+      "Sphere of radius 1",
+      "Cube of size $2\\times 2\\times 2$",
+      "Pyramid with square base",
+      "Frustum with near and far planes"
+    ],
+    "answer": "Cube of size $2\\times 2\\times 2$"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "Which projection type preserves parallel lines and does not apply perspective foreshortening?",
+    "options": [
+      "Perspective Projection",
+      "Orthographic Projection",
+      "Stereographic Projection",
+      "Cylindrical Projection"
+    ],
+    "answer": "Orthographic Projection"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "In rasterisation, what is the primary purpose of the depth buffer (z-buffer)?",
+    "options": [
+      "To store pixel colours",
+      "To store texture coordinates",
+      "To store the distance from the eye to the closest surface at each pixel",
+      "To store lighting intensity values"
+    ],
+    "answer": "To store the distance from the eye to the closest surface at each pixel"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "Which shading model assumes light reflection is independent of the viewing direction and is suitable for rough surfaces?",
+    "options": [
+      "Blinn-Phong Shading",
+      "Lambertian Shading",
+      "Gouraud Shading",
+      "Ambient Shading"
+    ],
+    "answer": "Lambertian Shading"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "Which transformation maps the canonical volume to actual screen coordinates in the rendering pipeline?",
+    "options": [
+      "Model Transform",
+      "View Transform",
+      "Viewport Transform",
+      "Projection Transform"
+    ],
+    "answer": "Viewport Transform"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "What is the main difference between object-order and image-order rendering?",
+    "options": [
+      "Object-order iterates over pixels first; image-order iterates over objects first.",
+      "Object-order iterates over objects first; image-order iterates over pixels first.",
+      "Object-order uses ray tracing; image-order uses rasterisation",
+      "Object-order is always faster than image-order"
+    ],
+    "answer": "Object-order iterates over objects first; image-order iterates over pixels first."
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "Why might normal mapping appear less effective in VR rendering than on a traditional monitor?",
+    "options": [
+      "VR headsets have lower resolution",
+      "VR provides stereo and motion parallax, revealing flatness",
+      "Normal mapping requires ray tracing",
+      "VR does not support texture mapping"
+    ],
+    "answer": "VR provides stereo and motion parallax, revealing flatness"
+  },
+  {
+    "assignment": "Week 10: Assignment 10",
+    "question": "Which step in the rendering pipeline determines pixel coordinates from 3D points before considering colour or lighting?",
+    "options": [
+      "Model Transform",
+      "View Transform",
+      "Projection to Canonical Volume",
+      "Viewport Transform"
+    ],
+    "answer": "Projection to Canonical Volume"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Humans are known to be able to hear between the ranges $20$ Hz and $20$ kHz, but which of the following bands do we have the most auditory sensitivity for",
+    "options": [
+      "$20-1000$ Hz",
+      "$1000-4000$ Hz",
+      "$4000-8000$ Hz",
+      "$8000-16000$ Hz",
+      "$16000-20000$ Hz"
+    ],
+    "answer": "$1000-4000$ Hz"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Humans are capable of turning their heads in the direction of a sound source. Which frequency range do we suffer the greatest error in the horizontal localisation of the angle of the source?",
+    "options": [
+      "$20-1000$ Hz",
+      "$1000-4000$ Hz",
+      "$4000-8000$ Hz",
+      "$8000-16000$ Hz",
+      "$16000-20000$ Hz"
+    ],
+    "answer": "$4000-8000$ Hz"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Steven's power law describes a relation between the physical intensity of sound ($I$) and the perceived intensity ($S$). Suppose the power factor for auditory perception is given to be $\\beta = 0.6$. By what factor should the original physical intensity ($I$) be multiplied to get $10$ times the perceived loudness, i.e., find $I'$ given $\\frac{S'}{S} = 10$ and $S = k I^{\\beta}$?",
+    "options": ["1.19"],
+    "answer": "1000"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Which of the following are essential cues in binaural hearing captured by HRTFs?",
+    "options": [
+      "Interaural Time Difference (ITD)",
+      "Interaural Level Difference (ILD)",
+      "Ambient Reverberation Index (ARI)",
+      "Spectral Cues",
+      "Headphone Phase Offset (HPO)"
+    ],
+    "answer": "Interaural Time Difference (ITD);Interaural Level Difference (ILD);Spectral Cues"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "The interaural time difference is the delay after which the sound wave reaches one ear, after the other has already received the sound wave. In the given figure, consider $r=10$ cm, speed of sound $=330$ m/s and the angle $\\theta=30^{\\circ}$. Find the expected ITD in ms, up to $2$ decimal places. (Figure shows a sound source approaching a spherical head model.)",
+    "options": ["0.31"],
+    "answer": "0.31"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Which statements correctly describe auditory localisation effects related to temporal and intensity cues?",
+    "options": [
+      "The Haas effect shows that two identical sounds arriving within $50$ ms are perceived as separate sources.",
+      "The precedence effect causes the brain to localise a sound based primarily on the first-arriving wavefront:",
+      "Binaural time-intensity trading effect allows a louder sound in one ear to bias perceived source direction, even when it arrives later.",
+      "The precedence effect only occurs in echo-free environments.",
+      "Binaural time-intensity trading effect prevents intensity cues from influencing sound localisation."
+    ],
+    "answer": "The precedence effect causes the brain to localise a sound based primarily on the first-arriving wavefront.;Binaural time-intensity trading effect allows a louder sound in one ear to bias perceived source direction, even when it arrives later."
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "What is the primary disadvantage of using a dummy head for binaural recording?",
+    "options": [
+      "Requires special headphones",
+      "Cannot accurately capture dynamic cues",
+      "Individual variability in HRTFs reduces localisation accuracy",
+      "High levels of ambient noise during recording",
+      "Uses outdated microphone technology"
+    ],
+    "answer": "Individual variability in HRTFs reduces localisation accuracy"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Which of the following statements about Head-Related Transfer Functions (HRTFs) is incorrect?",
+    "options": [
+      "HRTFs can vary significantly between individuals due to unique pinnae and head shapes",
+      "HRTFs are typically measured using spherical microphone arrays with uniform elevation sampling.",
+      "Spherical Harmonics are often used to represent HRTF spatial variation",
+      "HRTF measurements can be affected by room reverberation and require post-processing",
+      "Interaural Level Difference (ILD) is a key cue captured in HRTFs"
+    ],
+    "answer": "HRTFs are typically measured using spherical microphone arrays with uniform elevation sampling."
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Which of the following correctly describes the trade-offs in using distributed arrays of higher-order microphones for large-area recording?",
+    "options": [
+      "Fewer total microphones are needed compared to omnidirectional arrays",
+      "Each microphone must process more complex directional information",
+      "The system requires individual HRTFs for each mic capsule",
+      "It offers lower temporal resolution but higher spatial contrast",
+      "The array captures both near-field and far-field effects without modelling"
+    ],
+    "answer": "Fewer total microphones are needed compared to omnidirectional arrays;Each microphone must process more complex directional information"
+  },
+  {
+    "assignment": "Week 11: Assignment 11",
+    "question": "Which of the following best describes a core principle of Ambisonics in spatial audio reproduction?",
+    "options": [
+      "It applies beamforming to suppress unwanted background noise during recording.",
+      "It encodes a soundfield using spherical harmonics for reproduction over loudspeaker arrays",
+      "It uses interaural time and level differences to simulate sound direction through headphones",
+      "It reproduces sound by simulating wavefront interference with distributed secondary sources.",
+      "It creates acoustic contrast between zones to deliver private audio in shared spaces."
+    ],
+    "answer": "It encodes a soundfield using spherical harmonics for reproduction over loudspeaker arrays"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "At which frequency (in Hz) is the human fingertip the most sensitive to vibrations?",
+    "options": ["25", "100", "250", "1000", "2500"],
+    "answer": "250"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Which of the following senses are included in Haptics?",
+    "options": ["Touch", "Proprioception", "Smell", "Taste", "Temperature"],
+    "answer": "Touch;Proprioception;Temperature"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Fill in the blanks with the correct choice. Haptics pertains to sensing and object manipulation through by humans or in real, environments.",
+    "options": [
+      "touch, machines, virtual, teleoperated",
+      "touch, animals, virtual, teleoperated",
+      "proximity, machines, virtual, teleoperated",
+      "proximity, animals, imaginary, digital",
+      "touch, machines, distant, proximal"
+    ],
+    "answer": "touch, machines, virtual, teleoperated"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Which of the following touch receptors are located deeper in the skin",
+    "options": ["Merkel", "Meissner", "Pacinian", "Ruffini"],
+    "answer": "Pacinian;Ruffini"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Which of the following touch receptors are rapidly adapting",
+    "options": ["Merkel", "Meissner", "Pacinian", "Ruffini"],
+    "answer": "Meissner;Pacinian"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Which of the following receptors is responsible for the detection of a cell phone vibration",
+    "options": ["Merkel", "Meissner", "Pacinian", "Ruffini"],
+    "answer": "Pacinian"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Select all the true statements",
+    "options": [
+      "Meissner corpuscles are essential for reading a Braille script",
+      "Areas without the 4 mechanoreceptors (RA1,2, SA1,2) do not possess any sense of touch",
+      "Fingertips have the largest concentration of mechanoreceptors and are thus one of the regions in the body most sensitive to touch",
+      "Merkel bodies can detect deep pressure on the skin, while Ruffini organs detect a superficial touch",
+      "Ruffini organs can detect a deep pressure on the skin, while the Merkel bodies detect a superficial touch"
+    ],
+    "answer": "Meissner corpuscles are essential for reading a Braille script;Fingertips have the largest concentration of mechanoreceptors and are thus one of the regions in the body most sensitive to touch;Ruffini organs can detect a deep pressure on the skin, while the Merkel bodies detect a superficial touch"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "What is the recommended frame rate for a haptic display (in Hz or fps)?",
+    "options": ["25", "100", "250", "1000", "2500"],
+    "answer": "1000"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "Which of the following must be high for a good haptics rendering system?",
+    "options": [
+      "Static and dynamic accuracy",
+      "Latency",
+      "Frame duration",
+      "Signal-to-noise ratio",
+      "Power consumption"
+    ],
+    "answer": "Static and dynamic accuracy;Signal-to-noise ratio"
+  },
+  {
+    "assignment": "Week 12: Assignment 12",
+    "question": "What is the purpose of force shading?",
+    "options": [
+      "To show a three-dimensional texture on a two-dimensional surface.",
+      "To reduce the complexity of the force feedback provided to the user",
+      "To smooth the force profile at the edges of the polygonal model of the geometry of the virtual object.",
+      "To ensure specific libraries are bundled in a way that prevents version clashes.",
+      "To reduce CPU time for haptics rendering and enable the delivery of faster force variations"
+    ],
+    "answer": "To smooth the force profile at the edges of the polygonal model of the geometry of the virtual object."
+  }
+]
