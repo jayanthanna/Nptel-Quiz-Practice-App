@@ -196,14 +196,14 @@
   {
     "assignment": "Assignment -2",
     "question": "Boston consultancy group matrix is basically an order of",
-    "options": ["$5*5$", "$4*4$", "$3*3$", "$2*2$"],
-    "answer": "$2*2$"
+    "options": ["5*5", "4*4", "3*3", "2*2"],
+    "answer": "2*2"
   },
   {
     "assignment": "Assignment -3",
     "question": "How many types of attributes are considered in TOPSIS?",
     "options": ["3", "2", "4", "5"],
-    "answer": "2"
+    "answer": "3"
   },
   {
     "assignment": "Assignment -3",
