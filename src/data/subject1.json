@@ -169,7 +169,7 @@
       "Risk only",
       "Return only"
     ],
-    "answer": "Risk, Returns and Resources"
+    "answer": "Risk and Returns"
   },
   {
     "assignment": "Assignment -2",
@@ -804,7 +804,7 @@
       "Continuous float",
       "Independent float"
     ],
-    "answer": "Independent float"
+    "answer": "Total float"
   },
   {
     "assignment": "Assignment 9",
@@ -843,7 +843,7 @@
       "Continuous float",
       "Independent float"
     ],
-    "answer": "Total float"
+    "answer": "Independent float"
   },
   {
     "assignment": "Assignment 9",
@@ -921,7 +921,7 @@
       "Independent float = 0",
       "All of the above"
     ],
-    "answer": "All of the above"
+    "answer": "Total float = 0"
   },
   {
     "assignment": "Assignment 10",
