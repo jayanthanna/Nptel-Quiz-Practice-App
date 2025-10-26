@@ -87,7 +87,12 @@ export default function QuestionCard({
       <h2 className="text-2xl font-bold mb-6 text-center">
         {questionData.question}
       </h2>
-      <div className="grid grid-cols-2 gap-4">
+      {/* Change grid to dynamic columns based on options length */}
+      <div
+        className={`grid ${
+          questionData.options?.length > 4 ? "grid-cols-1" : "grid-cols-2"
+        } gap-4`}
+      >
         {questionData.options.map((option) => (
           <button
             key={option}

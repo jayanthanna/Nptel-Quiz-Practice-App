@@ -24,6 +24,10 @@ export default function App() {
   const [userAnswers, setUserAnswers] = useState([]); // selected option per question or null
   const [userCorrect, setUserCorrect] = useState([]); // boolean per question or null
 
+  // Add new state for random mode
+  const [isRandomMode, setIsRandomMode] = useState(false);
+  const [randomCount, setRandomCount] = useState(0);
+
   // utility: convert imported subject data to assignments map
   const buildAssignments = (data) => {
     // if data is an object with keys (assignments already grouped)
@@ -59,8 +63,12 @@ export default function App() {
   const handleSubjectSelect = (subject) => {
     const data = getSubjectData(subject);
     const { map, list } = buildAssignments(data);
+
+    // Flatten all questions for random mode
+    const allQuestions = Object.values(map).flat();
+
     setAssignmentsMap(map);
-    setAssignmentList(list);
+    setAssignmentList([...list, "Random 30 Questions", "Random 50 Questions"]);
     setSelectedSubject(subject);
     setShowAssignmentSelect(true);
     setGameStarted(false);
@@ -71,25 +79,66 @@ export default function App() {
     setCurrentAssignmentIndex(-1);
     setUserAnswers([]);
     setUserCorrect([]);
+    setIsRandomMode(false);
+    setRandomCount(0);
   };
 
-  // const handleAssignmentSelect = (key, idx) => {
-  //   const qs = assignmentsMap[key] || [];
-  //   setQuestions([...qs]);
-  //   setSelectedAssignment(key);
-  //   setCurrentAssignmentIndex(idx);
-  //   setCurrentIndex(0);
-  //   setScore(0);
-  //   setGameStarted(true);
-  //   setShowAssignmentSelect(false);
-  //   // initialize per-question answer arrays
-  //   setUserAnswers(Array(qs.length).fill(null));
-  //   setUserCorrect(Array(qs.length).fill(null));
-  // };
+  // Add helper to get random questions
+  const getRandomQuestions = (allQuestions, count) => {
+    const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+    return shuffled.slice(0, count);
+  };
 
-  // ...existing code...
+  // Modify handleAssignmentSelect
+  const handleAssignmentSelect = (key, idx) => {
+    // Handle random modes
+    if (key === "Random 30 Questions" || key === "Random 50 Questions") {
+      const count = key === "Random 30 Questions" ? 30 : 50;
+      const allQuestions = Object.values(assignmentsMap).flat();
+      const randomQs = getRandomQuestions(allQuestions, count);
+
+      // Process random questions
+      const processed = randomQs.map((q) => ({
+        ...q,
+        correctOptions: parseCorrectOptions(q.answer, q.options || []),
+      }));
+
+      setQuestions(processed);
+      setSelectedAssignment(key);
+      setCurrentAssignmentIndex(-1); // Special index for random mode
+      setCurrentIndex(0);
+      setScore(0);
+      setGameStarted(true);
+      setShowAssignmentSelect(false);
+      setIsRandomMode(true);
+      setRandomCount(count);
+      setUserAnswers(Array(processed.length).fill(null));
+      setUserCorrect(Array(processed.length).fill(null));
+      return;
+    }
+
+    // Regular week assignment handling
+    const qs = assignmentsMap[key] || [];
+    const processed = qs.map((q) => ({
+      ...q,
+      correctOptions: parseCorrectOptions(q.answer, q.options || []),
+    }));
+
+    setQuestions(processed);
+    setSelectedAssignment(key);
+    setCurrentAssignmentIndex(idx);
+    setCurrentIndex(0);
+    setScore(0);
+    setGameStarted(true);
+    setShowAssignmentSelect(false);
+    setIsRandomMode(false);
+    setRandomCount(0);
+    setUserAnswers(Array(processed.length).fill(null));
+    setUserCorrect(Array(processed.length).fill(null));
+  };
+
   // add helper to parse letter answers into option text
-  
+
   const parseCorrectOptions = (answer, options) => {
     if (!answer) return [];
     // if already an array or answer matches exactly an option, return normalized array
@@ -131,24 +180,24 @@ export default function App() {
   // when loading assignment questions, attach correctOptions on each question
   // locate where you set questions (e.g. in handleAssignmentSelect) and replace with processed array
   // ...existing code...
-  const handleAssignmentSelect = (key, idx) => {
-    const qs = assignmentsMap[key] || [];
-    // process each question to add correctOptions array
-    const processed = qs.map((q) => ({
-      ...q,
-      correctOptions: parseCorrectOptions(q.answer, q.options || []),
-    }));
-    setQuestions([...processed]);
-    setSelectedAssignment(key);
-    setCurrentAssignmentIndex(idx);
-    setCurrentIndex(0);
-    setScore(0);
-    setGameStarted(true);
-    setShowAssignmentSelect(false);
-    // initialize per-question answer arrays
-    setUserAnswers(Array(processed.length).fill(null));
-    setUserCorrect(Array(processed.length).fill(null));
-  };
+  // const handleAssignmentSelect = (key, idx) => {
+  //   const qs = assignmentsMap[key] || [];
+  //   // process each question to add correctOptions array
+  //   const processed = qs.map((q) => ({
+  //     ...q,
+  //     correctOptions: parseCorrectOptions(q.answer, q.options || []),
+  //   }));
+  //   setQuestions([...processed]);
+  //   setSelectedAssignment(key);
+  //   setCurrentAssignmentIndex(idx);
+  //   setCurrentIndex(0);
+  //   setScore(0);
+  //   setGameStarted(true);
+  //   setShowAssignmentSelect(false);
+  //   // initialize per-question answer arrays
+  //   setUserAnswers(Array(processed.length).fill(null));
+  //   setUserCorrect(Array(processed.length).fill(null));
+  // };
   // ...existing code...
 
   const handlePrevQuestion = () => {
@@ -304,14 +353,25 @@ export default function App() {
           <TopNav />
           <div className="bg-white p-8 rounded-lg shadow-lg w-full">
             <h2 className="text-2xl font-bold mb-4 text-center">
-              {selectedSubject} - Choose Assignment (Week)
+              {selectedSubject} - Choose Assignment
             </h2>
             <div className="grid grid-cols-3 gap-3">
-              {assignmentList.map((key, idx) => (
+              {assignmentList.slice(0, -2).map((key, idx) => (
                 <button
                   key={key}
                   className="p-3 border rounded hover:bg-gray-100 text-center"
                   onClick={() => handleAssignmentSelect(key, idx)}
+                >
+                  {key}
+                </button>
+              ))}
+            </div>
+            <div className="mt-6 flex flex-col gap-3">
+              {assignmentList.slice(-2).map((key) => (
+                <button
+                  key={key}
+                  className="w-full p-3 bg-blue-100 border border-blue-300 rounded hover:bg-blue-200 text-center"
+                  onClick={() => handleAssignmentSelect(key, -1)}
                 >
                   {key}
                 </button>
